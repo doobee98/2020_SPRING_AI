@@ -1,1 +1,1 @@
-COSE361 - Artificial Inteligence
+Artificial Inteligence Homeworks
