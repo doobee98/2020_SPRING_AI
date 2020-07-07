@@ -1,0 +1,1247 @@
+C:\Users\LG\PycharmProjects\AIFinalTerm\venv\Scripts\python.exe C:/Users/LG/PycharmProjects/AIFinalTerm/main.py
+START Recognize!
+	(   1/1242) [       0s] Start: ./prevData/tst/f/ak/1237743.txt
+	(   2/1242) [      20s] Start: ./prevData/tst/f/ak/1393387.txt
+	(   3/1242) [      42s] Start: ./prevData/tst/f/ak/276317o.txt
+	(   4/1242) [      68s] Start: ./prevData/tst/f/ak/44z5938.txt
+	(   5/1242) [      92s] Start: ./prevData/tst/f/ak/48z66zz.txt
+	(   6/1242) [     109s] Start: ./prevData/tst/f/ak/6654599.txt
+	(   7/1242) [     122s] Start: ./prevData/tst/f/ak/84z3z51.txt
+	(   8/1242) [     137s] Start: ./prevData/tst/f/ak/86z1162.txt
+	(   9/1242) [     151s] Start: ./prevData/tst/f/ak/9196951.txt
+	(  10/1242) [     165s] Start: ./prevData/tst/f/ak/oo21641.txt
+	(  11/1242) [     178s] Start: ./prevData/tst/f/ak/z176zz2.txt
+	(  12/1242) [     194s] Start: ./prevData/tst/f/ap/1121851.txt
+	(  13/1242) [     207s] Start: ./prevData/tst/f/ap/39z4582.txt
+	(  14/1242) [     220s] Start: ./prevData/tst/f/ap/3z51z81.txt
+	(  15/1242) [     237s] Start: ./prevData/tst/f/ap/4241866.txt
+	(  16/1242) [     254s] Start: ./prevData/tst/f/ap/4347649.txt
+	(  17/1242) [     269s] Start: ./prevData/tst/f/ap/43o6571.txt
+	(  18/1242) [     281s] Start: ./prevData/tst/f/ap/4zz4722.txt
+	(  19/1242) [     293s] Start: ./prevData/tst/f/ap/5384z39.txt
+	(  20/1242) [     305s] Start: ./prevData/tst/f/ap/7811688.txt
+	(  21/1242) [     317s] Start: ./prevData/tst/f/ap/896177z.txt
+	(  22/1242) [     329s] Start: ./prevData/tst/f/ap/z8z35z7.txt
+	(  23/1242) [     344s] Start: ./prevData/tst/f/ba/2122883.txt
+	(  24/1242) [     361s] Start: ./prevData/tst/f/ba/2597298.txt
+	(  25/1242) [     375s] Start: ./prevData/tst/f/ba/3468927.txt
+	(  26/1242) [     398s] Start: ./prevData/tst/f/ba/47738z1.txt
+	(  27/1242) [     413s] Start: ./prevData/tst/f/ba/5241633.txt
+	(  28/1242) [     425s] Start: ./prevData/tst/f/ba/61oo133.txt
+	(  29/1242) [     441s] Start: ./prevData/tst/f/ba/6924z63.txt
+	(  30/1242) [     458s] Start: ./prevData/tst/f/ba/7976o5o.txt
+	(  31/1242) [     475s] Start: ./prevData/tst/f/ba/98z7437.txt
+	(  32/1242) [     494s] Start: ./prevData/tst/f/ba/ooo9371.txt
+	(  33/1242) [     511s] Start: ./prevData/tst/f/ba/z3115z9.txt
+	(  34/1242) [     537s] Start: ./prevData/tst/f/bf/1369o76.txt
+	(  35/1242) [     553s] Start: ./prevData/tst/f/bf/193o254.txt
+	(  36/1242) [     569s] Start: ./prevData/tst/f/bf/5923464.txt
+	(  37/1242) [     584s] Start: ./prevData/tst/f/bf/72o464o.txt
+	(  38/1242) [     600s] Start: ./prevData/tst/f/bf/7o17o49.txt
+	(  39/1242) [     619s] Start: ./prevData/tst/f/bf/826z358.txt
+	(  40/1242) [     637s] Start: ./prevData/tst/f/bf/8415281.txt
+	(  41/1242) [     652s] Start: ./prevData/tst/f/bf/9479165.txt
+	(  42/1242) [     668s] Start: ./prevData/tst/f/bf/o937762.txt
+	(  43/1242) [     684s] Start: ./prevData/tst/f/bf/z224869.txt
+	(  44/1242) [     702s] Start: ./prevData/tst/f/bf/z451z95.txt
+	(  45/1242) [     722s] Start: ./prevData/tst/f/bj/15o3456.txt
+	(  46/1242) [     741s] Start: ./prevData/tst/f/bj/376oo28.txt
+	(  47/1242) [     758s] Start: ./prevData/tst/f/bj/378o726.txt
+	(  48/1242) [     772s] Start: ./prevData/tst/f/bj/4z7162z.txt
+	(  49/1242) [     789s] Start: ./prevData/tst/f/bj/7768736.txt
+	(  50/1242) [     810s] Start: ./prevData/tst/f/bj/7z46989.txt
+	(  51/1242) [     826s] Start: ./prevData/tst/f/bj/84991z2.txt
+	(  52/1242) [     840s] Start: ./prevData/tst/f/bj/87o1215.txt
+	(  53/1242) [     856s] Start: ./prevData/tst/f/bj/o833132.txt
+	(  54/1242) [     869s] Start: ./prevData/tst/f/bj/z343112.txt
+	(  55/1242) [     888s] Start: ./prevData/tst/f/bj/z443659.txt
+	(  56/1242) [     906s] Start: ./prevData/tst/f/bl/148z483.txt
+	(  57/1242) [     921s] Start: ./prevData/tst/f/bl/2747537.txt
+	(  58/1242) [     935s] Start: ./prevData/tst/f/bl/293zz12.txt
+	(  59/1242) [     950s] Start: ./prevData/tst/f/bl/36z325z.txt
+	(  60/1242) [     967s] Start: ./prevData/tst/f/bl/567872z.txt
+	(  61/1242) [     988s] Start: ./prevData/tst/f/bl/672o642.txt
+	(  62/1242) [    1005s] Start: ./prevData/tst/f/bl/6z86z92.txt
+	(  63/1242) [    1018s] Start: ./prevData/tst/f/bl/8o88377.txt
+	(  64/1242) [    1032s] Start: ./prevData/tst/f/bl/93587z5.txt
+	(  65/1242) [    1049s] Start: ./prevData/tst/f/bl/o2861o5.txt
+	(  66/1242) [    1065s] Start: ./prevData/tst/f/bl/z716163.txt
+	(  67/1242) [    1083s] Start: ./prevData/tst/f/bs/181292z.txt
+	(  68/1242) [    1104s] Start: ./prevData/tst/f/bs/19275o2.txt
+	(  69/1242) [    1121s] Start: ./prevData/tst/f/bs/223z773.txt
+	(  70/1242) [    1139s] Start: ./prevData/tst/f/bs/555z971.txt
+	(  71/1242) [    1158s] Start: ./prevData/tst/f/bs/61675z8.txt
+	(  72/1242) [    1180s] Start: ./prevData/tst/f/bs/72561o8.txt
+	(  73/1242) [    1201s] Start: ./prevData/tst/f/bs/736o439.txt
+	(  74/1242) [    1219s] Start: ./prevData/tst/f/bs/854216o.txt
+	(  75/1242) [    1234s] Start: ./prevData/tst/f/bs/9464zz4.txt
+	(  76/1242) [    1250s] Start: ./prevData/tst/f/bs/9o45358.txt
+	(  77/1242) [    1269s] Start: ./prevData/tst/f/bs/o933694.txt
+	(  78/1242) [    1283s] Start: ./prevData/tst/f/bw/1119673.txt
+	(  79/1242) [    1298s] Start: ./prevData/tst/f/bw/1528833.txt
+	(  80/1242) [    1312s] Start: ./prevData/tst/f/bw/163o993.txt
+	(  81/1242) [    1327s] Start: ./prevData/tst/f/bw/5639826.txt
+	(  82/1242) [    1341s] Start: ./prevData/tst/f/bw/58942o7.txt
+	(  83/1242) [    1355s] Start: ./prevData/tst/f/bw/659954o.txt
+	(  84/1242) [    1370s] Start: ./prevData/tst/f/bw/812o859.txt
+	(  85/1242) [    1382s] Start: ./prevData/tst/f/bw/935o324.txt
+	(  86/1242) [    1395s] Start: ./prevData/tst/f/bw/9z72386.txt
+	(  87/1242) [    1410s] Start: ./prevData/tst/f/bw/o85o348.txt
+	(  88/1242) [    1422s] Start: ./prevData/tst/f/bw/zz1zz8z.txt
+	(  89/1242) [    1439s] Start: ./prevData/tst/f/cd/1153564.txt
+	(  90/1242) [    1453s] Start: ./prevData/tst/f/cd/1o43748.txt
+	(  91/1242) [    1466s] Start: ./prevData/tst/f/cd/4454684.txt
+	(  92/1242) [    1479s] Start: ./prevData/tst/f/cd/5587oo8.txt
+	(  93/1242) [    1492s] Start: ./prevData/tst/f/cd/5z383z5.txt
+	(  94/1242) [    1507s] Start: ./prevData/tst/f/cd/6z895z6.txt
+	(  95/1242) [    1521s] Start: ./prevData/tst/f/cd/7176171.txt
+	(  96/1242) [    1534s] Start: ./prevData/tst/f/cd/81o513o.txt
+	(  97/1242) [    1544s] Start: ./prevData/tst/f/cd/85o3872.txt
+	(  98/1242) [    1555s] Start: ./prevData/tst/f/cd/97z4299.txt
+	(  99/1242) [    1566s] Start: ./prevData/tst/f/cd/z31z912.txt
+	( 100/1242) [    1582s] Start: ./prevData/tst/f/cj/1396z33.txt
+	( 101/1242) [    1602s] Start: ./prevData/tst/f/cj/2346zz2.txt
+	( 102/1242) [    1617s] Start: ./prevData/tst/f/cj/4584433.txt
+	( 103/1242) [    1631s] Start: ./prevData/tst/f/cj/5735379.txt
+	( 104/1242) [    1646s] Start: ./prevData/tst/f/cj/65977o7.txt
+	( 105/1242) [    1660s] Start: ./prevData/tst/f/cj/75o5566.txt
+	( 106/1242) [    1678s] Start: ./prevData/tst/f/cj/787o8o1.txt
+	( 107/1242) [    1692s] Start: ./prevData/tst/f/cj/8641zz8.txt
+	( 108/1242) [    1708s] Start: ./prevData/tst/f/cj/z157652.txt
+	( 109/1242) [    1727s] Start: ./prevData/tst/f/cj/z2319z9.txt
+	( 110/1242) [    1743s] Start: ./prevData/tst/f/cj/z626z45.txt
+	( 111/1242) [    1758s] Start: ./prevData/tst/f/cs/1242747.txt
+	( 112/1242) [    1769s] Start: ./prevData/tst/f/cs/13o289o.txt
+	( 113/1242) [    1782s] Start: ./prevData/tst/f/cs/1o3o569.txt
+	( 114/1242) [    1794s] Start: ./prevData/tst/f/cs/34o7o83.txt
+	( 115/1242) [    1806s] Start: ./prevData/tst/f/cs/6z2z733.txt
+	( 116/1242) [    1823s] Start: ./prevData/tst/f/cs/8424z41.txt
+	( 117/1242) [    1840s] Start: ./prevData/tst/f/cs/85o1646.txt
+	( 118/1242) [    1855s] Start: ./prevData/tst/f/cs/9o55631.txt
+	( 119/1242) [    1871s] Start: ./prevData/tst/f/cs/o395o7o.txt
+	( 120/1242) [    1885s] Start: ./prevData/tst/f/cs/z1z58z1.txt
+	( 121/1242) [    1899s] Start: ./prevData/tst/f/cs/zz96772.txt
+	( 122/1242) [    1911s] Start: ./prevData/tst/f/ct/125z18z.txt
+	( 123/1242) [    1926s] Start: ./prevData/tst/f/ct/14513z4.txt
+	( 124/1242) [    1940s] Start: ./prevData/tst/f/ct/231z21z.txt
+	( 125/1242) [    1954s] Start: ./prevData/tst/f/ct/2878z24.txt
+	( 126/1242) [    1968s] Start: ./prevData/tst/f/ct/534996o.txt
+	( 127/1242) [    1983s] Start: ./prevData/tst/f/ct/5oo9o49.txt
+	( 128/1242) [    1996s] Start: ./prevData/tst/f/ct/6316884.txt
+	( 129/1242) [    2010s] Start: ./prevData/tst/f/ct/7936596.txt
+	( 130/1242) [    2023s] Start: ./prevData/tst/f/ct/8375o33.txt
+	( 131/1242) [    2037s] Start: ./prevData/tst/f/ct/o794644.txt
+	( 132/1242) [    2048s] Start: ./prevData/tst/f/ct/ooo9989.txt
+	( 133/1242) [    2060s] Start: ./prevData/tst/f/dp/2694197.txt
+	( 134/1242) [    2071s] Start: ./prevData/tst/f/dp/3885695.txt
+	( 135/1242) [    2083s] Start: ./prevData/tst/f/dp/4964oo8.txt
+	( 136/1242) [    2097s] Start: ./prevData/tst/f/dp/5oo31o6.txt
+	( 137/1242) [    2111s] Start: ./prevData/tst/f/dp/68z366z.txt
+	( 138/1242) [    2126s] Start: ./prevData/tst/f/dp/7641o89.txt
+	( 139/1242) [    2142s] Start: ./prevData/tst/f/dp/9618237.txt
+	( 140/1242) [    2155s] Start: ./prevData/tst/f/dp/o1957oo.txt
+	( 141/1242) [    2166s] Start: ./prevData/tst/f/dp/o357451.txt
+	( 142/1242) [    2178s] Start: ./prevData/tst/f/dp/z442z94.txt
+	( 143/1242) [    2190s] Start: ./prevData/tst/f/dp/z839293.txt
+	( 144/1242) [    2202s] Start: ./prevData/tst/f/dr/1866533.txt
+	( 145/1242) [    2214s] Start: ./prevData/tst/f/dr/1z5624z.txt
+	( 146/1242) [    2229s] Start: ./prevData/tst/f/dr/1zzz564.txt
+	( 147/1242) [    2246s] Start: ./prevData/tst/f/dr/2922o7o.txt
+	( 148/1242) [    2263s] Start: ./prevData/tst/f/dr/4366439.txt
+	( 149/1242) [    2279s] Start: ./prevData/tst/f/dr/483z993.txt
+	( 150/1242) [    2293s] Start: ./prevData/tst/f/dr/547593z.txt
+	( 151/1242) [    2306s] Start: ./prevData/tst/f/dr/7951919.txt
+	( 152/1242) [    2321s] Start: ./prevData/tst/f/dr/8985125.txt
+	( 153/1242) [    2334s] Start: ./prevData/tst/f/dr/9226z13.txt
+	( 154/1242) [    2346s] Start: ./prevData/tst/f/dr/z716911.txt
+	( 155/1242) [    2360s] Start: ./prevData/tst/f/dw/1o5oo45.txt
+	( 156/1242) [    2373s] Start: ./prevData/tst/f/dw/4281638.txt
+	( 157/1242) [    2391s] Start: ./prevData/tst/f/dw/4496z47.txt
+	( 158/1242) [    2411s] Start: ./prevData/tst/f/dw/51z179z.txt
+	( 159/1242) [    2426s] Start: ./prevData/tst/f/dw/5274155.txt
+	( 160/1242) [    2441s] Start: ./prevData/tst/f/dw/8839731.txt
+	( 161/1242) [    2452s] Start: ./prevData/tst/f/dw/953698o.txt
+	( 162/1242) [    2466s] Start: ./prevData/tst/f/dw/o712122.txt
+	( 163/1242) [    2480s] Start: ./prevData/tst/f/dw/z376z4z.txt
+	( 164/1242) [    2493s] Start: ./prevData/tst/f/dw/z587z1z.txt
+	( 165/1242) [    2510s] Start: ./prevData/tst/f/dw/zz8z57z.txt
+	( 166/1242) [    2532s] Start: ./prevData/tst/f/ej/1167489.txt
+	( 167/1242) [    2550s] Start: ./prevData/tst/f/ej/38z77z7.txt
+	( 168/1242) [    2567s] Start: ./prevData/tst/f/ej/3oo128o.txt
+	( 169/1242) [    2582s] Start: ./prevData/tst/f/ej/479oo9o.txt
+	( 170/1242) [    2596s] Start: ./prevData/tst/f/ej/5158454.txt
+	( 171/1242) [    2611s] Start: ./prevData/tst/f/ej/61o6o59.txt
+	( 172/1242) [    2624s] Start: ./prevData/tst/f/ej/62o69o3.txt
+	( 173/1242) [    2638s] Start: ./prevData/tst/f/ej/63z994z.txt
+	( 174/1242) [    2658s] Start: ./prevData/tst/f/ej/7687569.txt
+	( 175/1242) [    2676s] Start: ./prevData/tst/f/ej/o77o394.txt
+	( 176/1242) [    2692s] Start: ./prevData/tst/f/ej/z8z27z5.txt
+	( 177/1242) [    2708s] Start: ./prevData/tst/f/em/2773161.txt
+	( 178/1242) [    2722s] Start: ./prevData/tst/f/em/3296o68.txt
+	( 179/1242) [    2738s] Start: ./prevData/tst/f/em/4813oo2.txt
+	( 180/1242) [    2751s] Start: ./prevData/tst/f/em/5171426.txt
+	( 181/1242) [    2765s] Start: ./prevData/tst/f/em/64z1587.txt
+	( 182/1242) [    2780s] Start: ./prevData/tst/f/em/8724637.txt
+	( 183/1242) [    2800s] Start: ./prevData/tst/f/em/9283528.txt
+	( 184/1242) [    2818s] Start: ./prevData/tst/f/em/94712o9.txt
+	( 185/1242) [    2834s] Start: ./prevData/tst/f/em/95677o1.txt
+	( 186/1242) [    2849s] Start: ./prevData/tst/f/em/o174458.txt
+	( 187/1242) [    2862s] Start: ./prevData/tst/f/em/oo6oo97.txt
+	( 188/1242) [    2878s] Start: ./prevData/tst/f/ep/16173oo.txt
+	( 189/1242) [    2892s] Start: ./prevData/tst/f/ep/18z8232.txt
+	( 190/1242) [    2907s] Start: ./prevData/tst/f/ep/2477956.txt
+	( 191/1242) [    2923s] Start: ./prevData/tst/f/ep/3167oo5.txt
+	( 192/1242) [    2937s] Start: ./prevData/tst/f/ep/4264z19.txt
+	( 193/1242) [    2954s] Start: ./prevData/tst/f/ep/4o6o965.txt
+	( 194/1242) [    2969s] Start: ./prevData/tst/f/ep/6312oo9.txt
+	( 195/1242) [    2983s] Start: ./prevData/tst/f/ep/6598171.txt
+	( 196/1242) [    2994s] Start: ./prevData/tst/f/ep/727o797.txt
+	( 197/1242) [    3008s] Start: ./prevData/tst/f/ep/7447523.txt
+	( 198/1242) [    3023s] Start: ./prevData/tst/f/ep/8992836.txt
+	( 199/1242) [    3038s] Start: ./prevData/tst/f/er/1881394.txt
+	( 200/1242) [    3051s] Start: ./prevData/tst/f/er/2zz8938.txt
+	( 201/1242) [    3065s] Start: ./prevData/tst/f/er/3262958.txt
+	( 202/1242) [    3081s] Start: ./prevData/tst/f/er/4436726.txt
+	( 203/1242) [    3096s] Start: ./prevData/tst/f/er/63z4z11.txt
+	( 204/1242) [    3109s] Start: ./prevData/tst/f/er/6861o22.txt
+	( 205/1242) [    3119s] Start: ./prevData/tst/f/er/73z23z1.txt
+	( 206/1242) [    3132s] Start: ./prevData/tst/f/er/85376z6.txt
+	( 207/1242) [    3147s] Start: ./prevData/tst/f/er/o543o5o.txt
+	( 208/1242) [    3160s] Start: ./prevData/tst/f/er/o9o8464.txt
+	( 209/1242) [    3172s] Start: ./prevData/tst/f/er/z927z52.txt
+	( 210/1242) [    3185s] Start: ./prevData/tst/f/ew/1zzz162.txt
+	( 211/1242) [    3205s] Start: ./prevData/tst/f/ew/22z6932.txt
+	( 212/1242) [    3222s] Start: ./prevData/tst/f/ew/41oo631.txt
+	( 213/1242) [    3237s] Start: ./prevData/tst/f/ew/59z5735.txt
+	( 214/1242) [    3252s] Start: ./prevData/tst/f/ew/6769465.txt
+	( 215/1242) [    3266s] Start: ./prevData/tst/f/ew/71876oo.txt
+	( 216/1242) [    3282s] Start: ./prevData/tst/f/ew/7432366.txt
+	( 217/1242) [    3297s] Start: ./prevData/tst/f/ew/78z6z9z.txt
+	( 218/1242) [    3314s] Start: ./prevData/tst/f/ew/8992897.txt
+	( 219/1242) [    3331s] Start: ./prevData/tst/f/ew/o8668o2.txt
+	( 220/1242) [    3349s] Start: ./prevData/tst/f/ew/z9512z8.txt
+	( 221/1242) [    3367s] Start: ./prevData/tst/f/fn/1zz1423.txt
+	( 222/1242) [    3382s] Start: ./prevData/tst/f/fn/275z327.txt
+	( 223/1242) [    3400s] Start: ./prevData/tst/f/fn/2848337.txt
+	( 224/1242) [    3417s] Start: ./prevData/tst/f/fn/3921115.txt
+	( 225/1242) [    3438s] Start: ./prevData/tst/f/fn/488o7o1.txt
+	( 226/1242) [    3455s] Start: ./prevData/tst/f/fn/4z25996.txt
+	( 227/1242) [    3478s] Start: ./prevData/tst/f/fn/51z61z1.txt
+	( 228/1242) [    3496s] Start: ./prevData/tst/f/fn/5o5o856.txt
+	( 229/1242) [    3513s] Start: ./prevData/tst/f/fn/o3o9586.txt
+	( 230/1242) [    3534s] Start: ./prevData/tst/f/fn/z762z3z.txt
+	( 231/1242) [    3551s] Start: ./prevData/tst/f/fn/z949744.txt
+	( 232/1242) [    3569s] Start: ./prevData/tst/f/gb/193626z.txt
+	( 233/1242) [    3586s] Start: ./prevData/tst/f/gb/32o77o4.txt
+	( 234/1242) [    3600s] Start: ./prevData/tst/f/gb/4355389.txt
+	( 235/1242) [    3614s] Start: ./prevData/tst/f/gb/683o387.txt
+	( 236/1242) [    3626s] Start: ./prevData/tst/f/gb/8o2289o.txt
+	( 237/1242) [    3639s] Start: ./prevData/tst/f/gb/8z86712.txt
+	( 238/1242) [    3650s] Start: ./prevData/tst/f/gb/9164o97.txt
+	( 239/1242) [    3664s] Start: ./prevData/tst/f/gb/9661579.txt
+	( 240/1242) [    3677s] Start: ./prevData/tst/f/gb/9976659.txt
+	( 241/1242) [    3689s] Start: ./prevData/tst/f/gb/o3o6513.txt
+	( 242/1242) [    3701s] Start: ./prevData/tst/f/gb/z3z568z.txt
+	( 243/1242) [    3715s] Start: ./prevData/tst/f/gc/1973877.txt
+	( 244/1242) [    3734s] Start: ./prevData/tst/f/gc/1o84o3o.txt
+	( 245/1242) [    3748s] Start: ./prevData/tst/f/gc/2312591.txt
+	( 246/1242) [    3762s] Start: ./prevData/tst/f/gc/3835o6o.txt
+	( 247/1242) [    3776s] Start: ./prevData/tst/f/gc/3oo8228.txt
+	( 248/1242) [    3788s] Start: ./prevData/tst/f/gc/41z4995.txt
+	( 249/1242) [    3804s] Start: ./prevData/tst/f/gc/45z1453.txt
+	( 250/1242) [    3818s] Start: ./prevData/tst/f/gc/562z164.txt
+	( 251/1242) [    3832s] Start: ./prevData/tst/f/gc/6z34665.txt
+	( 252/1242) [    3851s] Start: ./prevData/tst/f/gc/7184818.txt
+	( 253/1242) [    3865s] Start: ./prevData/tst/f/gc/z6z72z9.txt
+	( 254/1242) [    3880s] Start: ./prevData/tst/f/gk/27z2369.txt
+	( 255/1242) [    3891s] Start: ./prevData/tst/f/gk/2z35569.txt
+	( 256/1242) [    3903s] Start: ./prevData/tst/f/gk/4682653.txt
+	( 257/1242) [    3915s] Start: ./prevData/tst/f/gk/4833zz1.txt
+	( 258/1242) [    3928s] Start: ./prevData/tst/f/gk/5398715.txt
+	( 259/1242) [    3940s] Start: ./prevData/tst/f/gk/5zz6863.txt
+	( 260/1242) [    3954s] Start: ./prevData/tst/f/gk/6z17852.txt
+	( 261/1242) [    3968s] Start: ./prevData/tst/f/gk/7723439.txt
+	( 262/1242) [    3985s] Start: ./prevData/tst/f/gk/841875o.txt
+	( 263/1242) [    3997s] Start: ./prevData/tst/f/gk/8427861.txt
+	( 264/1242) [    4010s] Start: ./prevData/tst/f/gk/929o585.txt
+	( 265/1242) [    4023s] Start: ./prevData/tst/f/gl/2514oo6.txt
+	( 266/1242) [    4034s] Start: ./prevData/tst/f/gl/2z961zz.txt
+	( 267/1242) [    4048s] Start: ./prevData/tst/f/gl/3244536.txt
+	( 268/1242) [    4062s] Start: ./prevData/tst/f/gl/38116o1.txt
+	( 269/1242) [    4072s] Start: ./prevData/tst/f/gl/46285z2.txt
+	( 270/1242) [    4086s] Start: ./prevData/tst/f/gl/5489z39.txt
+	( 271/1242) [    4102s] Start: ./prevData/tst/f/gl/63571z4.txt
+	( 272/1242) [    4117s] Start: ./prevData/tst/f/gl/6o871o6.txt
+	( 273/1242) [    4131s] Start: ./prevData/tst/f/gl/7oo5849.txt
+	( 274/1242) [    4145s] Start: ./prevData/tst/f/gl/7z7z765.txt
+	( 275/1242) [    4159s] Start: ./prevData/tst/f/gl/9z5z291.txt
+	( 276/1242) [    4173s] Start: ./prevData/tst/f/gm/19431z6.txt
+	( 277/1242) [    4186s] Start: ./prevData/tst/f/gm/2981127.txt
+	( 278/1242) [    4197s] Start: ./prevData/tst/f/gm/378z743.txt
+	( 279/1242) [    4210s] Start: ./prevData/tst/f/gm/52344o3.txt
+	( 280/1242) [    4225s] Start: ./prevData/tst/f/gm/55z3854.txt
+	( 281/1242) [    4239s] Start: ./prevData/tst/f/gm/6z5778z.txt
+	( 282/1242) [    4253s] Start: ./prevData/tst/f/gm/717oo49.txt
+	( 283/1242) [    4266s] Start: ./prevData/tst/f/gm/o841o57.txt
+	( 284/1242) [    4280s] Start: ./prevData/tst/f/gm/o9356oo.txt
+	( 285/1242) [    4291s] Start: ./prevData/tst/f/gm/z488z25.txt
+	( 286/1242) [    4307s] Start: ./prevData/tst/f/gm/z641488.txt
+	( 287/1242) [    4318s] Start: ./prevData/tst/f/gn/1741o21.txt
+	( 288/1242) [    4328s] Start: ./prevData/tst/f/gn/1z29799.txt
+	( 289/1242) [    4341s] Start: ./prevData/tst/f/gn/2432784.txt
+	( 290/1242) [    4353s] Start: ./prevData/tst/f/gn/2o8oo38.txt
+	( 291/1242) [    4364s] Start: ./prevData/tst/f/gn/3128744.txt
+	( 292/1242) [    4381s] Start: ./prevData/tst/f/gn/34o4573.txt
+	( 293/1242) [    4400s] Start: ./prevData/tst/f/gn/4756479.txt
+	( 294/1242) [    4411s] Start: ./prevData/tst/f/gn/539o5o6.txt
+	( 295/1242) [    4424s] Start: ./prevData/tst/f/gn/6393z64.txt
+	( 296/1242) [    4436s] Start: ./prevData/tst/f/gn/82oo63o.txt
+	( 297/1242) [    4447s] Start: ./prevData/tst/f/gn/9298932.txt
+	( 298/1242) [    4457s] Start: ./prevData/tst/f/hf/1956687.txt
+	( 299/1242) [    4472s] Start: ./prevData/tst/f/hf/38o55o3.txt
+	( 300/1242) [    4490s] Start: ./prevData/tst/f/hf/3o23127.txt
+	( 301/1242) [    4504s] Start: ./prevData/tst/f/hf/4153586.txt
+	( 302/1242) [    4517s] Start: ./prevData/tst/f/hf/4z72374.txt
+	( 303/1242) [    4530s] Start: ./prevData/tst/f/hf/74796z5.txt
+	( 304/1242) [    4546s] Start: ./prevData/tst/f/hf/824o178.txt
+	( 305/1242) [    4560s] Start: ./prevData/tst/f/hf/883181z.txt
+	( 306/1242) [    4572s] Start: ./prevData/tst/f/hf/9759z2z.txt
+	( 307/1242) [    4588s] Start: ./prevData/tst/f/hf/98zz867.txt
+	( 308/1242) [    4605s] Start: ./prevData/tst/f/hf/zzz9z52.txt
+	( 309/1242) [    4624s] Start: ./prevData/tst/f/id/1553536.txt
+	( 310/1242) [    4638s] Start: ./prevData/tst/f/id/1843o75.txt
+	( 311/1242) [    4652s] Start: ./prevData/tst/f/id/23611z4.txt
+	( 312/1242) [    4665s] Start: ./prevData/tst/f/id/2812z71.txt
+	( 313/1242) [    4680s] Start: ./prevData/tst/f/id/2zzz229.txt
+	( 314/1242) [    4694s] Start: ./prevData/tst/f/id/382oo44.txt
+	( 315/1242) [    4706s] Start: ./prevData/tst/f/id/4165832.txt
+	( 316/1242) [    4720s] Start: ./prevData/tst/f/id/4o2469o.txt
+	( 317/1242) [    4736s] Start: ./prevData/tst/f/id/52o94oo.txt
+	( 318/1242) [    4752s] Start: ./prevData/tst/f/id/5z96z8z.txt
+	( 319/1242) [    4767s] Start: ./prevData/tst/f/id/934z394.txt
+	( 320/1242) [    4779s] Start: ./prevData/tst/f/ii/1179644.txt
+	( 321/1242) [    4795s] Start: ./prevData/tst/f/ii/13123o1.txt
+	( 322/1242) [    4809s] Start: ./prevData/tst/f/ii/2z38232.txt
+	( 323/1242) [    4823s] Start: ./prevData/tst/f/ii/3z86146.txt
+	( 324/1242) [    4839s] Start: ./prevData/tst/f/ii/53583o8.txt
+	( 325/1242) [    4854s] Start: ./prevData/tst/f/ii/5629969.txt
+	( 326/1242) [    4871s] Start: ./prevData/tst/f/ii/637zzzz.txt
+	( 327/1242) [    4890s] Start: ./prevData/tst/f/ii/6591z76.txt
+	( 328/1242) [    4908s] Start: ./prevData/tst/f/ii/691667o.txt
+	( 329/1242) [    4925s] Start: ./prevData/tst/f/ii/85311oo.txt
+	( 330/1242) [    4939s] Start: ./prevData/tst/f/ii/oo578o4.txt
+	( 331/1242) [    4954s] Start: ./prevData/tst/f/iw/17zz2zz.txt
+	( 332/1242) [    4965s] Start: ./prevData/tst/f/iw/2o3o543.txt
+	( 333/1242) [    4980s] Start: ./prevData/tst/f/iw/75313o2.txt
+	( 334/1242) [    4996s] Start: ./prevData/tst/f/iw/771z84z.txt
+	( 335/1242) [    5010s] Start: ./prevData/tst/f/iw/7o44662.txt
+	( 336/1242) [    5023s] Start: ./prevData/tst/f/iw/8356o47.txt
+	( 337/1242) [    5034s] Start: ./prevData/tst/f/iw/8866863.txt
+	( 338/1242) [    5045s] Start: ./prevData/tst/f/iw/96557o9.txt
+	( 339/1242) [    5057s] Start: ./prevData/tst/f/iw/o193281.txt
+	( 340/1242) [    5068s] Start: ./prevData/tst/f/iw/z4z5127.txt
+	( 341/1242) [    5082s] Start: ./prevData/tst/f/iw/zz33299.txt
+	( 342/1242) [    5094s] Start: ./prevData/tst/f/jd/16z4645.txt
+	( 343/1242) [    5108s] Start: ./prevData/tst/f/jd/2615132.txt
+	( 344/1242) [    5123s] Start: ./prevData/tst/f/jd/2737232.txt
+	( 345/1242) [    5137s] Start: ./prevData/tst/f/jd/3534876.txt
+	( 346/1242) [    5148s] Start: ./prevData/tst/f/jd/3782194.txt
+	( 347/1242) [    5158s] Start: ./prevData/tst/f/jd/68122z7.txt
+	( 348/1242) [    5170s] Start: ./prevData/tst/f/jd/6818471.txt
+	( 349/1242) [    5181s] Start: ./prevData/tst/f/jd/73z9311.txt
+	( 350/1242) [    5192s] Start: ./prevData/tst/f/jd/8624842.txt
+	( 351/1242) [    5202s] Start: ./prevData/tst/f/jd/8o83o61.txt
+	( 352/1242) [    5215s] Start: ./prevData/tst/f/jd/o7547o4.txt
+	( 353/1242) [    5227s] Start: ./prevData/tst/f/je/12zz662.txt
+	( 354/1242) [    5240s] Start: ./prevData/tst/f/je/223o914.txt
+	( 355/1242) [    5257s] Start: ./prevData/tst/f/je/2928244.txt
+	( 356/1242) [    5271s] Start: ./prevData/tst/f/je/5253165.txt
+	( 357/1242) [    5286s] Start: ./prevData/tst/f/je/5316241.txt
+	( 358/1242) [    5299s] Start: ./prevData/tst/f/je/55z2zz8.txt
+	( 359/1242) [    5311s] Start: ./prevData/tst/f/je/9284o68.txt
+	( 360/1242) [    5326s] Start: ./prevData/tst/f/je/9z94zz3.txt
+	( 361/1242) [    5339s] Start: ./prevData/tst/f/je/o21958o.txt
+	( 362/1242) [    5351s] Start: ./prevData/tst/f/je/o357839.txt
+	( 363/1242) [    5366s] Start: ./prevData/tst/f/je/o946754.txt
+	( 364/1242) [    5381s] Start: ./prevData/tst/f/jw/2278o91.txt
+	( 365/1242) [    5395s] Start: ./prevData/tst/f/jw/3167oo1.txt
+	( 366/1242) [    5405s] Start: ./prevData/tst/f/jw/3376z7z.txt
+	( 367/1242) [    5416s] Start: ./prevData/tst/f/jw/36243z7.txt
+	( 368/1242) [    5427s] Start: ./prevData/tst/f/jw/4936381.txt
+	( 369/1242) [    5439s] Start: ./prevData/tst/f/jw/6527zz8.txt
+	( 370/1242) [    5449s] Start: ./prevData/tst/f/jw/8z6z444.txt
+	( 371/1242) [    5463s] Start: ./prevData/tst/f/jw/984z13z.txt
+	( 372/1242) [    5474s] Start: ./prevData/tst/f/jw/oo71231.txt
+	( 373/1242) [    5484s] Start: ./prevData/tst/f/jw/z2z1774.txt
+	( 374/1242) [    5497s] Start: ./prevData/tst/f/jw/z96z4zz.txt
+	( 375/1242) [    5510s] Start: ./prevData/tst/f/kb/137781z.txt
+	( 376/1242) [    5525s] Start: ./prevData/tst/f/kb/25734z8.txt
+	( 377/1242) [    5540s] Start: ./prevData/tst/f/kb/2643463.txt
+	( 378/1242) [    5554s] Start: ./prevData/tst/f/kb/313535z.txt
+	( 379/1242) [    5568s] Start: ./prevData/tst/f/kb/33816z7.txt
+	( 380/1242) [    5581s] Start: ./prevData/tst/f/kb/4324842.txt
+	( 381/1242) [    5595s] Start: ./prevData/tst/f/kb/4z22445.txt
+	( 382/1242) [    5609s] Start: ./prevData/tst/f/kb/53968z4.txt
+	( 383/1242) [    5624s] Start: ./prevData/tst/f/kb/65577o6.txt
+	( 384/1242) [    5642s] Start: ./prevData/tst/f/kb/889o976.txt
+	( 385/1242) [    5659s] Start: ./prevData/tst/f/kb/o871479.txt
+	( 386/1242) [    5672s] Start: ./prevData/tst/f/kj/11zz439.txt
+	( 387/1242) [    5685s] Start: ./prevData/tst/f/kj/22o6556.txt
+	( 388/1242) [    5699s] Start: ./prevData/tst/f/kj/2z69477.txt
+	( 389/1242) [    5714s] Start: ./prevData/tst/f/kj/344275z.txt
+	( 390/1242) [    5728s] Start: ./prevData/tst/f/kj/4673589.txt
+	( 391/1242) [    5742s] Start: ./prevData/tst/f/kj/5729823.txt
+	( 392/1242) [    5757s] Start: ./prevData/tst/f/kj/7863571.txt
+	( 393/1242) [    5772s] Start: ./prevData/tst/f/kj/9451715.txt
+	( 394/1242) [    5792s] Start: ./prevData/tst/f/kj/o381522.txt
+	( 395/1242) [    5807s] Start: ./prevData/tst/f/kj/o6o86o2.txt
+	( 396/1242) [    5820s] Start: ./prevData/tst/f/kj/z8591z7.txt
+	( 397/1242) [    5836s] Start: ./prevData/tst/f/lj/2512586.txt
+	( 398/1242) [    5851s] Start: ./prevData/tst/f/lj/44z7638.txt
+	( 399/1242) [    5868s] Start: ./prevData/tst/f/lj/455822z.txt
+	( 400/1242) [    5882s] Start: ./prevData/tst/f/lj/5736oo5.txt
+	( 401/1242) [    5895s] Start: ./prevData/tst/f/lj/5o78928.txt
+	( 402/1242) [    5912s] Start: ./prevData/tst/f/lj/6295396.txt
+	( 403/1242) [    5931s] Start: ./prevData/tst/f/lj/67o1781.txt
+	( 404/1242) [    5946s] Start: ./prevData/tst/f/lj/7748721.txt
+	( 405/1242) [    5961s] Start: ./prevData/tst/f/lj/7z42997.txt
+	( 406/1242) [    5974s] Start: ./prevData/tst/f/lj/8264988.txt
+	( 407/1242) [    5988s] Start: ./prevData/tst/f/lj/o4731oo.txt
+	( 408/1242) [    6002s] Start: ./prevData/tst/f/ll/2o62732.txt
+	( 409/1242) [    6017s] Start: ./prevData/tst/f/ll/5947156.txt
+	( 410/1242) [    6031s] Start: ./prevData/tst/f/ll/645z2zz.txt
+	( 411/1242) [    6051s] Start: ./prevData/tst/f/ll/6o9o4o2.txt
+	( 412/1242) [    6068s] Start: ./prevData/tst/f/ll/6z797z1.txt
+	( 413/1242) [    6086s] Start: ./prevData/tst/f/ll/7226952.txt
+	( 414/1242) [    6099s] Start: ./prevData/tst/f/ll/8z98z4z.txt
+	( 415/1242) [    6116s] Start: ./prevData/tst/f/ll/9188z57.txt
+	( 416/1242) [    6131s] Start: ./prevData/tst/f/ll/o256845.txt
+	( 417/1242) [    6148s] Start: ./prevData/tst/f/ll/o524955.txt
+	( 418/1242) [    6161s] Start: ./prevData/tst/f/ll/z43z281.txt
+	( 419/1242) [    6177s] Start: ./prevData/tst/f/lp/1247349.txt
+	( 420/1242) [    6192s] Start: ./prevData/tst/f/lp/296211o.txt
+	( 421/1242) [    6204s] Start: ./prevData/tst/f/lp/3277z3z.txt
+	( 422/1242) [    6221s] Start: ./prevData/tst/f/lp/524z318.txt
+	( 423/1242) [    6240s] Start: ./prevData/tst/f/lp/5o8o22o.txt
+	( 424/1242) [    6256s] Start: ./prevData/tst/f/lp/654zz11.txt
+	( 425/1242) [    6270s] Start: ./prevData/tst/f/lp/6o43143.txt
+	( 426/1242) [    6287s] Start: ./prevData/tst/f/lp/7642594.txt
+	( 427/1242) [    6308s] Start: ./prevData/tst/f/lp/94o1423.txt
+	( 428/1242) [    6324s] Start: ./prevData/tst/f/lp/9937589.txt
+	( 429/1242) [    6338s] Start: ./prevData/tst/f/lp/oo16446.txt
+	( 430/1242) [    6353s] Start: ./prevData/tst/f/lr/2593954.txt
+	( 431/1242) [    6363s] Start: ./prevData/tst/f/lr/2946119.txt
+	( 432/1242) [    6375s] Start: ./prevData/tst/f/lr/31o564o.txt
+	( 433/1242) [    6388s] Start: ./prevData/tst/f/lr/3oo2192.txt
+	( 434/1242) [    6398s] Start: ./prevData/tst/f/lr/41152z8.txt
+	( 435/1242) [    6411s] Start: ./prevData/tst/f/lr/6873o37.txt
+	( 436/1242) [    6422s] Start: ./prevData/tst/f/lr/6988559.txt
+	( 437/1242) [    6435s] Start: ./prevData/tst/f/lr/72o85o3.txt
+	( 438/1242) [    6448s] Start: ./prevData/tst/f/lr/8247649.txt
+	( 439/1242) [    6460s] Start: ./prevData/tst/f/lr/9o96oo9.txt
+	( 440/1242) [    6472s] Start: ./prevData/tst/f/lr/9zz2679.txt
+	( 441/1242) [    6484s] Start: ./prevData/tst/f/mc/174z336.txt
+	( 442/1242) [    6497s] Start: ./prevData/tst/f/mc/233o37o.txt
+	( 443/1242) [    6507s] Start: ./prevData/tst/f/mc/48z5415.txt
+	( 444/1242) [    6516s] Start: ./prevData/tst/f/mc/6219956.txt
+	( 445/1242) [    6527s] Start: ./prevData/tst/f/mc/6z61z57.txt
+	( 446/1242) [    6539s] Start: ./prevData/tst/f/mc/75o3294.txt
+	( 447/1242) [    6550s] Start: ./prevData/tst/f/mc/8796446.txt
+	( 448/1242) [    6563s] Start: ./prevData/tst/f/mc/9726881.txt
+	( 449/1242) [    6576s] Start: ./prevData/tst/f/mc/9914113.txt
+	( 450/1242) [    6588s] Start: ./prevData/tst/f/mc/z7844z4.txt
+	( 451/1242) [    6599s] Start: ./prevData/tst/f/mc/zz3zzz9.txt
+	( 452/1242) [    6611s] Start: ./prevData/tst/f/mj/1817945.txt
+	( 453/1242) [    6622s] Start: ./prevData/tst/f/mj/29o948o.txt
+	( 454/1242) [    6631s] Start: ./prevData/tst/f/mj/3o12631.txt
+	( 455/1242) [    6642s] Start: ./prevData/tst/f/mj/4273297.txt
+	( 456/1242) [    6654s] Start: ./prevData/tst/f/mj/4376zz2.txt
+	( 457/1242) [    6668s] Start: ./prevData/tst/f/mj/545o461.txt
+	( 458/1242) [    6680s] Start: ./prevData/tst/f/mj/778z672.txt
+	( 459/1242) [    6695s] Start: ./prevData/tst/f/mj/86o1363.txt
+	( 460/1242) [    6711s] Start: ./prevData/tst/f/mj/9149o52.txt
+	( 461/1242) [    6722s] Start: ./prevData/tst/f/mj/z5797z2.txt
+	( 462/1242) [    6734s] Start: ./prevData/tst/f/mj/z931zz3.txt
+	( 463/1242) [    6746s] Start: ./prevData/tst/f/ml/1133187.txt
+	( 464/1242) [    6758s] Start: ./prevData/tst/f/ml/1566z35.txt
+	( 465/1242) [    6774s] Start: ./prevData/tst/f/ml/5267983.txt
+	( 466/1242) [    6788s] Start: ./prevData/tst/f/ml/5o5536o.txt
+	( 467/1242) [    6803s] Start: ./prevData/tst/f/ml/7646374.txt
+	( 468/1242) [    6822s] Start: ./prevData/tst/f/ml/76o548o.txt
+	( 469/1242) [    6838s] Start: ./prevData/tst/f/ml/7z1z558.txt
+	( 470/1242) [    6853s] Start: ./prevData/tst/f/ml/9143o31.txt
+	( 471/1242) [    6871s] Start: ./prevData/tst/f/ml/94o3o45.txt
+	( 472/1242) [    6887s] Start: ./prevData/tst/f/ml/o88oo9o.txt
+	( 473/1242) [    6907s] Start: ./prevData/tst/f/ml/oo88oo6.txt
+	( 474/1242) [    6923s] Start: ./prevData/tst/f/na/1oo4977.txt
+	( 475/1242) [    6938s] Start: ./prevData/tst/f/na/228z125.txt
+	( 476/1242) [    6953s] Start: ./prevData/tst/f/na/2352o27.txt
+	( 477/1242) [    6965s] Start: ./prevData/tst/f/na/2415zz9.txt
+	( 478/1242) [    6978s] Start: ./prevData/tst/f/na/54148o7.txt
+	( 479/1242) [    6992s] Start: ./prevData/tst/f/na/5538344.txt
+	( 480/1242) [    7007s] Start: ./prevData/tst/f/na/66985o3.txt
+	( 481/1242) [    7020s] Start: ./prevData/tst/f/na/6763791.txt
+	( 482/1242) [    7035s] Start: ./prevData/tst/f/na/885zz3z.txt
+	( 483/1242) [    7048s] Start: ./prevData/tst/f/na/o8o14o7.txt
+	( 484/1242) [    7061s] Start: ./prevData/tst/f/na/z626687.txt
+	( 485/1242) [    7076s] Start: ./prevData/tst/f/nk/1397673.txt
+	( 486/1242) [    7092s] Start: ./prevData/tst/f/nk/18z7747.txt
+	( 487/1242) [    7106s] Start: ./prevData/tst/f/nk/216851o.txt
+	( 488/1242) [    7119s] Start: ./prevData/tst/f/nk/5417948.txt
+	( 489/1242) [    7132s] Start: ./prevData/tst/f/nk/5989754.txt
+	( 490/1242) [    7148s] Start: ./prevData/tst/f/nk/68143z3.txt
+	( 491/1242) [    7161s] Start: ./prevData/tst/f/nk/7235128.txt
+	( 492/1242) [    7175s] Start: ./prevData/tst/f/nk/728o946.txt
+	( 493/1242) [    7189s] Start: ./prevData/tst/f/nk/73o7423.txt
+	( 494/1242) [    7204s] Start: ./prevData/tst/f/nk/7786o3o.txt
+	( 495/1242) [    7223s] Start: ./prevData/tst/f/nk/9224121.txt
+	( 496/1242) [    7236s] Start: ./prevData/tst/f/pf/1442477.txt
+	( 497/1242) [    7251s] Start: ./prevData/tst/f/pf/226o77o.txt
+	( 498/1242) [    7269s] Start: ./prevData/tst/f/pf/227918o.txt
+	( 499/1242) [    7282s] Start: ./prevData/tst/f/pf/2578266.txt
+	( 500/1242) [    7298s] Start: ./prevData/tst/f/pf/56762z2.txt
+	( 501/1242) [    7316s] Start: ./prevData/tst/f/pf/6395148.txt
+	( 502/1242) [    7330s] Start: ./prevData/tst/f/pf/7361845.txt
+	( 503/1242) [    7346s] Start: ./prevData/tst/f/pf/7837175.txt
+	( 504/1242) [    7358s] Start: ./prevData/tst/f/pf/81o4832.txt
+	( 505/1242) [    7372s] Start: ./prevData/tst/f/pf/o316819.txt
+	( 506/1242) [    7386s] Start: ./prevData/tst/f/pf/oo99888.txt
+	( 507/1242) [    7399s] Start: ./prevData/tst/f/pj/2661389.txt
+	( 508/1242) [    7415s] Start: ./prevData/tst/f/pj/3434216.txt
+	( 509/1242) [    7431s] Start: ./prevData/tst/f/pj/3544z6z.txt
+	( 510/1242) [    7454s] Start: ./prevData/tst/f/pj/446o8o6.txt
+	( 511/1242) [    7474s] Start: ./prevData/tst/f/pj/563193o.txt
+	( 512/1242) [    7490s] Start: ./prevData/tst/f/pj/64z24zz.txt
+	( 513/1242) [    7507s] Start: ./prevData/tst/f/pj/7788879.txt
+	( 514/1242) [    7523s] Start: ./prevData/tst/f/pj/o73643o.txt
+	( 515/1242) [    7540s] Start: ./prevData/tst/f/pj/oo215oo.txt
+	( 516/1242) [    7556s] Start: ./prevData/tst/f/pj/z8z2273.txt
+	( 517/1242) [    7573s] Start: ./prevData/tst/f/pj/z9z932z.txt
+	( 518/1242) [    7591s] Start: ./prevData/tst/f/pl/129787z.txt
+	( 519/1242) [    7605s] Start: ./prevData/tst/f/pl/225253o.txt
+	( 520/1242) [    7616s] Start: ./prevData/tst/f/pl/3o6o732.txt
+	( 521/1242) [    7627s] Start: ./prevData/tst/f/pl/3zz8178.txt
+	( 522/1242) [    7638s] Start: ./prevData/tst/f/pl/5883228.txt
+	( 523/1242) [    7650s] Start: ./prevData/tst/f/pl/5z41736.txt
+	( 524/1242) [    7663s] Start: ./prevData/tst/f/pl/6874z3z.txt
+	( 525/1242) [    7678s] Start: ./prevData/tst/f/pl/8512455.txt
+	( 526/1242) [    7689s] Start: ./prevData/tst/f/pl/o583779.txt
+	( 527/1242) [    7704s] Start: ./prevData/tst/f/pl/oo6o137.txt
+	( 528/1242) [    7715s] Start: ./prevData/tst/f/pl/ooo766o.txt
+	( 529/1242) [    7728s] Start: ./prevData/tst/f/pn/1z8179z.txt
+	( 530/1242) [    7745s] Start: ./prevData/tst/f/pn/3932364.txt
+	( 531/1242) [    7758s] Start: ./prevData/tst/f/pn/4989z65.txt
+	( 532/1242) [    7775s] Start: ./prevData/tst/f/pn/516z34z.txt
+	( 533/1242) [    7789s] Start: ./prevData/tst/f/pn/6227242.txt
+	( 534/1242) [    7802s] Start: ./prevData/tst/f/pn/66o5o1o.txt
+	( 535/1242) [    7815s] Start: ./prevData/tst/f/pn/74z9922.txt
+	( 536/1242) [    7829s] Start: ./prevData/tst/f/pn/83z9z58.txt
+	( 537/1242) [    7847s] Start: ./prevData/tst/f/pn/9673856.txt
+	( 538/1242) [    7862s] Start: ./prevData/tst/f/pn/o7o5629.txt
+	( 539/1242) [    7873s] Start: ./prevData/tst/f/pn/z4zz69z.txt
+	( 540/1242) [    7889s] Start: ./prevData/tst/f/pt/42136zz.txt
+	( 541/1242) [    7906s] Start: ./prevData/tst/f/pt/4732o11.txt
+	( 542/1242) [    7920s] Start: ./prevData/tst/f/pt/4zz2z66.txt
+	( 543/1242) [    7938s] Start: ./prevData/tst/f/pt/5487572.txt
+	( 544/1242) [    7953s] Start: ./prevData/tst/f/pt/6619167.txt
+	( 545/1242) [    7971s] Start: ./prevData/tst/f/pt/7o4o979.txt
+	( 546/1242) [    7986s] Start: ./prevData/tst/f/pt/88z7141.txt
+	( 547/1242) [    8000s] Start: ./prevData/tst/f/pt/8oo7561.txt
+	( 548/1242) [    8012s] Start: ./prevData/tst/f/pt/o2813o1.txt
+	( 549/1242) [    8024s] Start: ./prevData/tst/f/pt/z129774.txt
+	( 550/1242) [    8043s] Start: ./prevData/tst/f/pt/z939441.txt
+	( 551/1242) [    8056s] Start: ./prevData/tst/f/rg/1788z42.txt
+	( 552/1242) [    8071s] Start: ./prevData/tst/f/rg/2338367.txt
+	( 553/1242) [    8087s] Start: ./prevData/tst/f/rg/415o868.txt
+	( 554/1242) [    8104s] Start: ./prevData/tst/f/rg/5695o12.txt
+	( 555/1242) [    8117s] Start: ./prevData/tst/f/rg/7846z91.txt
+	( 556/1242) [    8133s] Start: ./prevData/tst/f/rg/8729zz3.txt
+	( 557/1242) [    8150s] Start: ./prevData/tst/f/rg/9258443.txt
+	( 558/1242) [    8166s] Start: ./prevData/tst/f/rg/9387765.txt
+	( 559/1242) [    8181s] Start: ./prevData/tst/f/rg/9989276.txt
+	( 560/1242) [    8198s] Start: ./prevData/tst/f/rg/o341o79.txt
+	( 561/1242) [    8215s] Start: ./prevData/tst/f/rg/ooo824o.txt
+	( 562/1242) [    8230s] Start: ./prevData/tst/f/rl/345o3o7.txt
+	( 563/1242) [    8245s] Start: ./prevData/tst/f/rl/382o584.txt
+	( 564/1242) [    8258s] Start: ./prevData/tst/f/rl/3987527.txt
+	( 565/1242) [    8270s] Start: ./prevData/tst/f/rl/4269227.txt
+	( 566/1242) [    8287s] Start: ./prevData/tst/f/rl/5186237.txt
+	( 567/1242) [    8303s] Start: ./prevData/tst/f/rl/5z2865z.txt
+	( 568/1242) [    8319s] Start: ./prevData/tst/f/rl/75778z7.txt
+	( 569/1242) [    8337s] Start: ./prevData/tst/f/rl/962z443.txt
+	( 570/1242) [    8356s] Start: ./prevData/tst/f/rl/z193z36.txt
+	( 571/1242) [    8373s] Start: ./prevData/tst/f/rl/z474563.txt
+	( 572/1242) [    8388s] Start: ./prevData/tst/f/rl/zz68478.txt
+	( 573/1242) [    8405s] Start: ./prevData/tst/f/rm/1231374.txt
+	( 574/1242) [    8418s] Start: ./prevData/tst/f/rm/29z3811.txt
+	( 575/1242) [    8432s] Start: ./prevData/tst/f/rm/4527o57.txt
+	( 576/1242) [    8447s] Start: ./prevData/tst/f/rm/484178z.txt
+	( 577/1242) [    8463s] Start: ./prevData/tst/f/rm/51z6795.txt
+	( 578/1242) [    8479s] Start: ./prevData/tst/f/rm/5789435.txt
+	( 579/1242) [    8494s] Start: ./prevData/tst/f/rm/6629446.txt
+	( 580/1242) [    8507s] Start: ./prevData/tst/f/rm/971o656.txt
+	( 581/1242) [    8523s] Start: ./prevData/tst/f/rm/o433o68.txt
+	( 582/1242) [    8534s] Start: ./prevData/tst/f/rm/oo9o318.txt
+	( 583/1242) [    8547s] Start: ./prevData/tst/f/rm/z47z759.txt
+	( 584/1242) [    8561s] Start: ./prevData/tst/f/si/16oo931.txt
+	( 585/1242) [    8573s] Start: ./prevData/tst/f/si/212o342.txt
+	( 586/1242) [    8584s] Start: ./prevData/tst/f/si/48881z3.txt
+	( 587/1242) [    8599s] Start: ./prevData/tst/f/si/5846959.txt
+	( 588/1242) [    8614s] Start: ./prevData/tst/f/si/77z5152.txt
+	( 589/1242) [    8631s] Start: ./prevData/tst/f/si/85zz433.txt
+	( 590/1242) [    8644s] Start: ./prevData/tst/f/si/9o25787.txt
+	( 591/1242) [    8657s] Start: ./prevData/tst/f/si/o54o75o.txt
+	( 592/1242) [    8669s] Start: ./prevData/tst/f/si/oo5313o.txt
+	( 593/1242) [    8680s] Start: ./prevData/tst/f/si/z398422.txt
+	( 594/1242) [    8692s] Start: ./prevData/tst/f/si/z7z6572.txt
+	( 595/1242) [    8706s] Start: ./prevData/tst/f/sm/1o14971.txt
+	( 596/1242) [    8717s] Start: ./prevData/tst/f/sm/1o42o73.txt
+	( 597/1242) [    8729s] Start: ./prevData/tst/f/sm/1z57z85.txt
+	( 598/1242) [    8747s] Start: ./prevData/tst/f/sm/2346455.txt
+	( 599/1242) [    8764s] Start: ./prevData/tst/f/sm/2672988.txt
+	( 600/1242) [    8776s] Start: ./prevData/tst/f/sm/382812o.txt
+	( 601/1242) [    8792s] Start: ./prevData/tst/f/sm/43186z6.txt
+	( 602/1242) [    8807s] Start: ./prevData/tst/f/sm/5296o9o.txt
+	( 603/1242) [    8821s] Start: ./prevData/tst/f/sm/535153o.txt
+	( 604/1242) [    8835s] Start: ./prevData/tst/f/sm/814z13z.txt
+	( 605/1242) [    8849s] Start: ./prevData/tst/f/sm/zz66552.txt
+	( 606/1242) [    8865s] Start: ./prevData/tst/f/sn/1328419.txt
+	( 607/1242) [    8879s] Start: ./prevData/tst/f/sn/2431536.txt
+	( 608/1242) [    8897s] Start: ./prevData/tst/f/sn/4589533.txt
+	( 609/1242) [    8912s] Start: ./prevData/tst/f/sn/5147338.txt
+	( 610/1242) [    8924s] Start: ./prevData/tst/f/sn/57229o6.txt
+	( 611/1242) [    8939s] Start: ./prevData/tst/f/sn/5z15z57.txt
+	( 612/1242) [    8953s] Start: ./prevData/tst/f/sn/7559279.txt
+	( 613/1242) [    8968s] Start: ./prevData/tst/f/sn/7941z5z.txt
+	( 614/1242) [    8983s] Start: ./prevData/tst/f/sn/85235o5.txt
+	( 615/1242) [    8999s] Start: ./prevData/tst/f/sn/8639686.txt
+	( 616/1242) [    9016s] Start: ./prevData/tst/f/sn/ooo2878.txt
+	( 617/1242) [    9029s] Start: ./prevData/tst/f/tb/24378zz.txt
+	( 618/1242) [    9043s] Start: ./prevData/tst/f/tb/3892231.txt
+	( 619/1242) [    9056s] Start: ./prevData/tst/f/tb/3z9z322.txt
+	( 620/1242) [    9069s] Start: ./prevData/tst/f/tb/4154oo1.txt
+	( 621/1242) [    9081s] Start: ./prevData/tst/f/tb/576zz9z.txt
+	( 622/1242) [    9095s] Start: ./prevData/tst/f/tb/5897511.txt
+	( 623/1242) [    9109s] Start: ./prevData/tst/f/tb/5z7652z.txt
+	( 624/1242) [    9127s] Start: ./prevData/tst/f/tb/79392z5.txt
+	( 625/1242) [    9144s] Start: ./prevData/tst/f/tb/8142859.txt
+	( 626/1242) [    9156s] Start: ./prevData/tst/f/tb/9836oo4.txt
+	( 627/1242) [    9172s] Start: ./prevData/tst/f/tb/oo85346.txt
+	( 628/1242) [    9185s] Start: ./prevData/tst/m/ah/24z982z.txt
+	( 629/1242) [    9198s] Start: ./prevData/tst/m/ah/25896o4.txt
+	( 630/1242) [    9211s] Start: ./prevData/tst/m/ah/27o6571.txt
+	( 631/1242) [    9223s] Start: ./prevData/tst/m/ah/3o33951.txt
+	( 632/1242) [    9235s] Start: ./prevData/tst/m/ah/428ooo9.txt
+	( 633/1242) [    9251s] Start: ./prevData/tst/m/ah/6z8zz64.txt
+	( 634/1242) [    9265s] Start: ./prevData/tst/m/ah/74o8o12.txt
+	( 635/1242) [    9278s] Start: ./prevData/tst/m/ah/8729726.txt
+	( 636/1242) [    9291s] Start: ./prevData/tst/m/ah/9zz1998.txt
+	( 637/1242) [    9305s] Start: ./prevData/tst/m/ah/o321oo7.txt
+	( 638/1242) [    9318s] Start: ./prevData/tst/m/ah/o5o6671.txt
+	( 639/1242) [    9329s] Start: ./prevData/tst/m/ar/13zz637.txt
+	( 640/1242) [    9341s] Start: ./prevData/tst/m/ar/1o66739.txt
+	( 641/1242) [    9357s] Start: ./prevData/tst/m/ar/2554454.txt
+	( 642/1242) [    9371s] Start: ./prevData/tst/m/ar/31z5881.txt
+	( 643/1242) [    9385s] Start: ./prevData/tst/m/ar/46211z8.txt
+	( 644/1242) [    9397s] Start: ./prevData/tst/m/ar/5376869.txt
+	( 645/1242) [    9409s] Start: ./prevData/tst/m/ar/66o1348.txt
+	( 646/1242) [    9421s] Start: ./prevData/tst/m/ar/7567979.txt
+	( 647/1242) [    9435s] Start: ./prevData/tst/m/ar/7764214.txt
+	( 648/1242) [    9450s] Start: ./prevData/tst/m/ar/8z11243.txt
+	( 649/1242) [    9466s] Start: ./prevData/tst/m/ar/z324849.txt
+	( 650/1242) [    9479s] Start: ./prevData/tst/m/at/1752o4o.txt
+	( 651/1242) [    9495s] Start: ./prevData/tst/m/at/2165482.txt
+	( 652/1242) [    9507s] Start: ./prevData/tst/m/at/4496o15.txt
+	( 653/1242) [    9520s] Start: ./prevData/tst/m/at/4z55268.txt
+	( 654/1242) [    9531s] Start: ./prevData/tst/m/at/6389z9z.txt
+	( 655/1242) [    9543s] Start: ./prevData/tst/m/at/736883o.txt
+	( 656/1242) [    9557s] Start: ./prevData/tst/m/at/8429332.txt
+	( 657/1242) [    9569s] Start: ./prevData/tst/m/at/87585z1.txt
+	( 658/1242) [    9582s] Start: ./prevData/tst/m/at/oo37o72.txt
+	( 659/1242) [    9595s] Start: ./prevData/tst/m/at/z6778z8.txt
+	( 660/1242) [    9611s] Start: ./prevData/tst/m/bc/15zz277.txt
+	( 661/1242) [    9623s] Start: ./prevData/tst/m/bc/1o35217.txt
+	( 662/1242) [    9632s] Start: ./prevData/tst/m/bc/311z656.txt
+	( 663/1242) [    9643s] Start: ./prevData/tst/m/bc/4336463.txt
+	( 664/1242) [    9653s] Start: ./prevData/tst/m/bc/4518395.txt
+	( 665/1242) [    9663s] Start: ./prevData/tst/m/bc/5811244.txt
+	( 666/1242) [    9674s] Start: ./prevData/tst/m/bc/5o38523.txt
+	( 667/1242) [    9685s] Start: ./prevData/tst/m/bc/6o92oo4.txt
+	( 668/1242) [    9694s] Start: ./prevData/tst/m/bc/8327826.txt
+	( 669/1242) [    9705s] Start: ./prevData/tst/m/bc/8zz7559.txt
+	( 670/1242) [    9717s] Start: ./prevData/tst/m/bc/o57651o.txt
+	( 671/1242) [    9729s] Start: ./prevData/tst/m/be/234525z.txt
+	( 672/1242) [    9739s] Start: ./prevData/tst/m/be/36o4o69.txt
+	( 673/1242) [    9751s] Start: ./prevData/tst/m/be/4167478.txt
+	( 674/1242) [    9765s] Start: ./prevData/tst/m/be/432151o.txt
+	( 675/1242) [    9778s] Start: ./prevData/tst/m/be/9759462.txt
+	( 676/1242) [    9790s] Start: ./prevData/tst/m/be/987345z.txt
+	( 677/1242) [    9803s] Start: ./prevData/tst/m/be/o3o8oo1.txt
+	( 678/1242) [    9816s] Start: ./prevData/tst/m/be/o9o8o2o.txt
+	( 679/1242) [    9828s] Start: ./prevData/tst/m/be/z5z3z86.txt
+	( 680/1242) [    9842s] Start: ./prevData/tst/m/be/z669547.txt
+	( 681/1242) [    9854s] Start: ./prevData/tst/m/be/z9z8zz3.txt
+	( 682/1242) [    9867s] Start: ./prevData/tst/m/bm/1487757.txt
+	( 683/1242) [    9881s] Start: ./prevData/tst/m/bm/1491zz3.txt
+	( 684/1242) [    9893s] Start: ./prevData/tst/m/bm/22944o5.txt
+	( 685/1242) [    9905s] Start: ./prevData/tst/m/bm/35548o7.txt
+	( 686/1242) [    9917s] Start: ./prevData/tst/m/bm/463255o.txt
+	( 687/1242) [    9930s] Start: ./prevData/tst/m/bm/5672o24.txt
+	( 688/1242) [    9944s] Start: ./prevData/tst/m/bm/7z69616.txt
+	( 689/1242) [    9959s] Start: ./prevData/tst/m/bm/8311288.txt
+	( 690/1242) [    9970s] Start: ./prevData/tst/m/bm/8o6645o.txt
+	( 691/1242) [    9981s] Start: ./prevData/tst/m/bm/8z64368.txt
+	( 692/1242) [    9995s] Start: ./prevData/tst/m/bm/zz5z896.txt
+	( 693/1242) [   10010s] Start: ./prevData/tst/m/bn/11o646o.txt
+	( 694/1242) [   10025s] Start: ./prevData/tst/m/bn/24z8828.txt
+	( 695/1242) [   10037s] Start: ./prevData/tst/m/bn/2oo22o4.txt
+	( 696/1242) [   10051s] Start: ./prevData/tst/m/bn/357236z.txt
+	( 697/1242) [   10066s] Start: ./prevData/tst/m/bn/47631zz.txt
+	( 698/1242) [   10083s] Start: ./prevData/tst/m/bn/612z781.txt
+	( 699/1242) [   10096s] Start: ./prevData/tst/m/bn/6773266.txt
+	( 700/1242) [   10110s] Start: ./prevData/tst/m/bn/8333779.txt
+	( 701/1242) [   10125s] Start: ./prevData/tst/m/bn/84o1636.txt
+	( 702/1242) [   10137s] Start: ./prevData/tst/m/bn/91832o8.txt
+	( 703/1242) [   10150s] Start: ./prevData/tst/m/bn/9796586.txt
+	( 704/1242) [   10165s] Start: ./prevData/tst/m/cc/24662o5.txt
+	( 705/1242) [   10180s] Start: ./prevData/tst/m/cc/2z58z72.txt
+	( 706/1242) [   10201s] Start: ./prevData/tst/m/cc/445o89o.txt
+	( 707/1242) [   10212s] Start: ./prevData/tst/m/cc/532535z.txt
+	( 708/1242) [   10225s] Start: ./prevData/tst/m/cc/65z8z94.txt
+	( 709/1242) [   10241s] Start: ./prevData/tst/m/cc/8322346.txt
+	( 710/1242) [   10254s] Start: ./prevData/tst/m/cc/83z6744.txt
+	( 711/1242) [   10268s] Start: ./prevData/tst/m/cc/93o49oo.txt
+	( 712/1242) [   10280s] Start: ./prevData/tst/m/cc/o28o16o.txt
+	( 713/1242) [   10291s] Start: ./prevData/tst/m/cc/o92o387.txt
+	( 714/1242) [   10305s] Start: ./prevData/tst/m/cc/zz31298.txt
+	( 715/1242) [   10318s] Start: ./prevData/tst/m/ce/15114o6.txt
+	( 716/1242) [   10333s] Start: ./prevData/tst/m/ce/18zz985.txt
+	( 717/1242) [   10345s] Start: ./prevData/tst/m/ce/197o486.txt
+	( 718/1242) [   10357s] Start: ./prevData/tst/m/ce/2o28691.txt
+	( 719/1242) [   10369s] Start: ./prevData/tst/m/ce/3943zz8.txt
+	( 720/1242) [   10381s] Start: ./prevData/tst/m/ce/536o364.txt
+	( 721/1242) [   10392s] Start: ./prevData/tst/m/ce/569z754.txt
+	( 722/1242) [   10406s] Start: ./prevData/tst/m/ce/5844557.txt
+	( 723/1242) [   10420s] Start: ./prevData/tst/m/ce/591z5z7.txt
+	( 724/1242) [   10438s] Start: ./prevData/tst/m/ce/8o59956.txt
+	( 725/1242) [   10454s] Start: ./prevData/tst/m/ce/929o433.txt
+	( 726/1242) [   10465s] Start: ./prevData/tst/m/cp/1273o73.txt
+	( 727/1242) [   10479s] Start: ./prevData/tst/m/cp/152o472.txt
+	( 728/1242) [   10493s] Start: ./prevData/tst/m/cp/249798o.txt
+	( 729/1242) [   10507s] Start: ./prevData/tst/m/cp/3185743.txt
+	( 730/1242) [   10522s] Start: ./prevData/tst/m/cp/441o46o.txt
+	( 731/1242) [   10535s] Start: ./prevData/tst/m/cp/5337z77.txt
+	( 732/1242) [   10552s] Start: ./prevData/tst/m/cp/7z87621.txt
+	( 733/1242) [   10570s] Start: ./prevData/tst/m/cp/8281545.txt
+	( 734/1242) [   10588s] Start: ./prevData/tst/m/cp/9z7953z.txt
+	( 735/1242) [   10603s] Start: ./prevData/tst/m/cp/z16z518.txt
+	( 736/1242) [   10618s] Start: ./prevData/tst/m/cp/z4131zz.txt
+	( 737/1242) [   10640s] Start: ./prevData/tst/m/df/2461421.txt
+	( 738/1242) [   10655s] Start: ./prevData/tst/m/df/28z2814.txt
+	( 739/1242) [   10669s] Start: ./prevData/tst/m/df/3482663.txt
+	( 740/1242) [   10683s] Start: ./prevData/tst/m/df/41575o1.txt
+	( 741/1242) [   10701s] Start: ./prevData/tst/m/df/4671198.txt
+	( 742/1242) [   10717s] Start: ./prevData/tst/m/df/532o668.txt
+	( 743/1242) [   10733s] Start: ./prevData/tst/m/df/6726491.txt
+	( 744/1242) [   10747s] Start: ./prevData/tst/m/df/76zz889.txt
+	( 745/1242) [   10762s] Start: ./prevData/tst/m/df/972z1zz.txt
+	( 746/1242) [   10777s] Start: ./prevData/tst/m/df/99z847z.txt
+	( 747/1242) [   10793s] Start: ./prevData/tst/m/df/o831179.txt
+	( 748/1242) [   10808s] Start: ./prevData/tst/m/dj/1696289.txt
+	( 749/1242) [   10819s] Start: ./prevData/tst/m/dj/17415z9.txt
+	( 750/1242) [   10832s] Start: ./prevData/tst/m/dj/1z67931.txt
+	( 751/1242) [   10846s] Start: ./prevData/tst/m/dj/225259o.txt
+	( 752/1242) [   10859s] Start: ./prevData/tst/m/dj/32z5653.txt
+	( 753/1242) [   10871s] Start: ./prevData/tst/m/dj/3381192.txt
+	( 754/1242) [   10883s] Start: ./prevData/tst/m/dj/5858735.txt
+	( 755/1242) [   10894s] Start: ./prevData/tst/m/dj/6zz4965.txt
+	( 756/1242) [   10907s] Start: ./prevData/tst/m/dj/716o481.txt
+	( 757/1242) [   10919s] Start: ./prevData/tst/m/dj/zz3z736.txt
+	( 758/1242) [   10933s] Start: ./prevData/tst/m/dj/zzz9139.txt
+	( 759/1242) [   10945s] Start: ./prevData/tst/m/ed/1o11296.txt
+	( 760/1242) [   10963s] Start: ./prevData/tst/m/ed/3322483.txt
+	( 761/1242) [   10978s] Start: ./prevData/tst/m/ed/47z68zz.txt
+	( 762/1242) [   10991s] Start: ./prevData/tst/m/ed/56o6362.txt
+	( 763/1242) [   11003s] Start: ./prevData/tst/m/ed/5978z98.txt
+	( 764/1242) [   11019s] Start: ./prevData/tst/m/ed/69o2385.txt
+	( 765/1242) [   11033s] Start: ./prevData/tst/m/ed/8453791.txt
+	( 766/1242) [   11046s] Start: ./prevData/tst/m/ed/861672z.txt
+	( 767/1242) [   11060s] Start: ./prevData/tst/m/ed/968864o.txt
+	( 768/1242) [   11072s] Start: ./prevData/tst/m/ed/o5o9465.txt
+	( 769/1242) [   11087s] Start: ./prevData/tst/m/ed/z231327.txt
+	( 770/1242) [   11103s] Start: ./prevData/tst/m/ef/26zzz72.txt
+	( 771/1242) [   11115s] Start: ./prevData/tst/m/ef/3o42o1o.txt
+	( 772/1242) [   11127s] Start: ./prevData/tst/m/ef/4297639.txt
+	( 773/1242) [   11139s] Start: ./prevData/tst/m/ef/499455z.txt
+	( 774/1242) [   11153s] Start: ./prevData/tst/m/ef/6215479.txt
+	( 775/1242) [   11164s] Start: ./prevData/tst/m/ef/7o166o2.txt
+	( 776/1242) [   11177s] Start: ./prevData/tst/m/ef/7z634z8.txt
+	( 777/1242) [   11192s] Start: ./prevData/tst/m/ef/8473565.txt
+	( 778/1242) [   11207s] Start: ./prevData/tst/m/ef/9678zz2.txt
+	( 779/1242) [   11224s] Start: ./prevData/tst/m/ef/o83o911.txt
+	( 780/1242) [   11235s] Start: ./prevData/tst/m/ef/z249269.txt
+	( 781/1242) [   11248s] Start: ./prevData/tst/m/et/1939628.txt
+	( 782/1242) [   11260s] Start: ./prevData/tst/m/et/2338712.txt
+	( 783/1242) [   11273s] Start: ./prevData/tst/m/et/234z479.txt
+	( 784/1242) [   11283s] Start: ./prevData/tst/m/et/3182976.txt
+	( 785/1242) [   11297s] Start: ./prevData/tst/m/et/45o2426.txt
+	( 786/1242) [   11309s] Start: ./prevData/tst/m/et/521z11z.txt
+	( 787/1242) [   11320s] Start: ./prevData/tst/m/et/5z64668.txt
+	( 788/1242) [   11334s] Start: ./prevData/tst/m/et/7z5596z.txt
+	( 789/1242) [   11348s] Start: ./prevData/tst/m/et/8763285.txt
+	( 790/1242) [   11361s] Start: ./prevData/tst/m/et/9z78zz5.txt
+	( 791/1242) [   11374s] Start: ./prevData/tst/m/et/o135655.txt
+	( 792/1242) [   11385s] Start: ./prevData/tst/m/fa/2949578.txt
+	( 793/1242) [   11402s] Start: ./prevData/tst/m/fa/399o467.txt
+	( 794/1242) [   11418s] Start: ./prevData/tst/m/fa/43zzz36.txt
+	( 795/1242) [   11433s] Start: ./prevData/tst/m/fa/5z47972.txt
+	( 796/1242) [   11450s] Start: ./prevData/tst/m/fa/64o23o8.txt
+	( 797/1242) [   11463s] Start: ./prevData/tst/m/fa/6z69852.txt
+	( 798/1242) [   11481s] Start: ./prevData/tst/m/fa/7z84276.txt
+	( 799/1242) [   11498s] Start: ./prevData/tst/m/fa/8828965.txt
+	( 800/1242) [   11512s] Start: ./prevData/tst/m/fa/9892316.txt
+	( 801/1242) [   11527s] Start: ./prevData/tst/m/fa/9zz437z.txt
+	( 802/1242) [   11544s] Start: ./prevData/tst/m/fa/z62z285.txt
+	( 803/1242) [   11559s] Start: ./prevData/tst/m/fg/3654827.txt
+	( 804/1242) [   11573s] Start: ./prevData/tst/m/fg/3z9zz18.txt
+	( 805/1242) [   11591s] Start: ./prevData/tst/m/fg/451o521.txt
+	( 806/1242) [   11607s] Start: ./prevData/tst/m/fg/512484z.txt
+	( 807/1242) [   11623s] Start: ./prevData/tst/m/fg/52z7783.txt
+	( 808/1242) [   11638s] Start: ./prevData/tst/m/fg/7411599.txt
+	( 809/1242) [   11653s] Start: ./prevData/tst/m/fg/743955z.txt
+	( 810/1242) [   11667s] Start: ./prevData/tst/m/fg/7737394.txt
+	( 811/1242) [   11683s] Start: ./prevData/tst/m/fg/9334472.txt
+	( 812/1242) [   11699s] Start: ./prevData/tst/m/fg/o538899.txt
+	( 813/1242) [   11713s] Start: ./prevData/tst/m/fg/z558z28.txt
+	( 814/1242) [   11729s] Start: ./prevData/tst/m/fh/1577z27.txt
+	( 815/1242) [   11742s] Start: ./prevData/tst/m/fh/1878358.txt
+	( 816/1242) [   11752s] Start: ./prevData/tst/m/fh/2343144.txt
+	( 817/1242) [   11762s] Start: ./prevData/tst/m/fh/3571538.txt
+	( 818/1242) [   11774s] Start: ./prevData/tst/m/fh/446931o.txt
+	( 819/1242) [   11784s] Start: ./prevData/tst/m/fh/484z5z7.txt
+	( 820/1242) [   11799s] Start: ./prevData/tst/m/fh/5262176.txt
+	( 821/1242) [   11813s] Start: ./prevData/tst/m/fh/73219o4.txt
+	( 822/1242) [   11824s] Start: ./prevData/tst/m/fh/853o51o.txt
+	( 823/1242) [   11838s] Start: ./prevData/tst/m/fh/9718476.txt
+	( 824/1242) [   11855s] Start: ./prevData/tst/m/fh/o36o7o4.txt
+	( 825/1242) [   11866s] Start: ./prevData/tst/m/fm/2332z8z.txt
+	( 826/1242) [   11879s] Start: ./prevData/tst/m/fm/271o124.txt
+	( 827/1242) [   11890s] Start: ./prevData/tst/m/fm/4288967.txt
+	( 828/1242) [   11903s] Start: ./prevData/tst/m/fm/4919o92.txt
+	( 829/1242) [   11915s] Start: ./prevData/tst/m/fm/53z1736.txt
+	( 830/1242) [   11932s] Start: ./prevData/tst/m/fm/58oo8o6.txt
+	( 831/1242) [   11945s] Start: ./prevData/tst/m/fm/88zz285.txt
+	( 832/1242) [   11960s] Start: ./prevData/tst/m/fm/o221481.txt
+	( 833/1242) [   11974s] Start: ./prevData/tst/m/fm/z6991z3.txt
+	( 834/1242) [   11988s] Start: ./prevData/tst/m/fm/z868713.txt
+	( 835/1242) [   12000s] Start: ./prevData/tst/m/fm/zz98257.txt
+	( 836/1242) [   12015s] Start: ./prevData/tst/m/fp/2586o8o.txt
+	( 837/1242) [   12024s] Start: ./prevData/tst/m/fp/35371z9.txt
+	( 838/1242) [   12037s] Start: ./prevData/tst/m/fp/5o61876.txt
+	( 839/1242) [   12051s] Start: ./prevData/tst/m/fp/6z5z498.txt
+	( 840/1242) [   12063s] Start: ./prevData/tst/m/fp/782o7oo.txt
+	( 841/1242) [   12076s] Start: ./prevData/tst/m/fp/844o514.txt
+	( 842/1242) [   12088s] Start: ./prevData/tst/m/fp/8551132.txt
+	( 843/1242) [   12100s] Start: ./prevData/tst/m/fp/o4639o9.txt
+	( 844/1242) [   12112s] Start: ./prevData/tst/m/fp/z268224.txt
+	( 845/1242) [   12124s] Start: ./prevData/tst/m/fp/z314723.txt
+	( 846/1242) [   12135s] Start: ./prevData/tst/m/fp/z98zzz1.txt
+	( 847/1242) [   12146s] Start: ./prevData/tst/m/fr/11ooo74.txt
+	( 848/1242) [   12158s] Start: ./prevData/tst/m/fr/3o44o55.txt
+	( 849/1242) [   12168s] Start: ./prevData/tst/m/fr/49245z6.txt
+	( 850/1242) [   12178s] Start: ./prevData/tst/m/fr/5121876.txt
+	( 851/1242) [   12190s] Start: ./prevData/tst/m/fr/67o5381.txt
+	( 852/1242) [   12204s] Start: ./prevData/tst/m/fr/7586283.txt
+	( 853/1242) [   12221s] Start: ./prevData/tst/m/fr/7811351.txt
+	( 854/1242) [   12231s] Start: ./prevData/tst/m/fr/8925z85.txt
+	( 855/1242) [   12241s] Start: ./prevData/tst/m/fr/9o23o63.txt
+	( 856/1242) [   12253s] Start: ./prevData/tst/m/fr/o148o46.txt
+	( 857/1242) [   12265s] Start: ./prevData/tst/m/fr/z474183.txt
+	( 858/1242) [   12277s] Start: ./prevData/tst/m/fs/122974o.txt
+	( 859/1242) [   12289s] Start: ./prevData/tst/m/fs/2146598.txt
+	( 860/1242) [   12300s] Start: ./prevData/tst/m/fs/5271848.txt
+	( 861/1242) [   12311s] Start: ./prevData/tst/m/fs/5318o91.txt
+	( 862/1242) [   12323s] Start: ./prevData/tst/m/fs/5z55z29.txt
+	( 863/1242) [   12337s] Start: ./prevData/tst/m/fs/649z2z3.txt
+	( 864/1242) [   12352s] Start: ./prevData/tst/m/fs/6662o71.txt
+	( 865/1242) [   12366s] Start: ./prevData/tst/m/fs/72582o8.txt
+	( 866/1242) [   12377s] Start: ./prevData/tst/m/fs/734778z.txt
+	( 867/1242) [   12391s] Start: ./prevData/tst/m/fs/o1oo812.txt
+	( 868/1242) [   12402s] Start: ./prevData/tst/m/fs/z6723z6.txt
+	( 869/1242) [   12415s] Start: ./prevData/tst/m/ft/1384377.txt
+	( 870/1242) [   12429s] Start: ./prevData/tst/m/ft/2zz3199.txt
+	( 871/1242) [   12444s] Start: ./prevData/tst/m/ft/321zz4z.txt
+	( 872/1242) [   12459s] Start: ./prevData/tst/m/ft/3594928.txt
+	( 873/1242) [   12474s] Start: ./prevData/tst/m/ft/4423326.txt
+	( 874/1242) [   12487s] Start: ./prevData/tst/m/ft/5216988.txt
+	( 875/1242) [   12501s] Start: ./prevData/tst/m/ft/564295o.txt
+	( 876/1242) [   12513s] Start: ./prevData/tst/m/ft/5853z27.txt
+	( 877/1242) [   12526s] Start: ./prevData/tst/m/ft/7o8o193.txt
+	( 878/1242) [   12539s] Start: ./prevData/tst/m/ft/966381z.txt
+	( 879/1242) [   12553s] Start: ./prevData/tst/m/ft/oo2497o.txt
+	( 880/1242) [   12566s] Start: ./prevData/tst/m/ga/1168522.txt
+	( 881/1242) [   12580s] Start: ./prevData/tst/m/ga/1zz5837.txt
+	( 882/1242) [   12596s] Start: ./prevData/tst/m/ga/281o24o.txt
+	( 883/1242) [   12607s] Start: ./prevData/tst/m/ga/53148o3.txt
+	( 884/1242) [   12619s] Start: ./prevData/tst/m/ga/5547z97.txt
+	( 885/1242) [   12640s] Start: ./prevData/tst/m/ga/5743251.txt
+	( 886/1242) [   12656s] Start: ./prevData/tst/m/ga/6281638.txt
+	( 887/1242) [   12673s] Start: ./prevData/tst/m/ga/6772356.txt
+	( 888/1242) [   12687s] Start: ./prevData/tst/m/ga/69z3879.txt
+	( 889/1242) [   12700s] Start: ./prevData/tst/m/ga/72oo499.txt
+	( 890/1242) [   12718s] Start: ./prevData/tst/m/ga/o199113.txt
+	( 891/1242) [   12734s] Start: ./prevData/tst/m/gp/15z8973.txt
+	( 892/1242) [   12750s] Start: ./prevData/tst/m/gp/24o7o6o.txt
+	( 893/1242) [   12760s] Start: ./prevData/tst/m/gp/4434427.txt
+	( 894/1242) [   12770s] Start: ./prevData/tst/m/gp/52814zz.txt
+	( 895/1242) [   12780s] Start: ./prevData/tst/m/gp/568z829.txt
+	( 896/1242) [   12790s] Start: ./prevData/tst/m/gp/5o29762.txt
+	( 897/1242) [   12800s] Start: ./prevData/tst/m/gp/66oo985.txt
+	( 898/1242) [   12811s] Start: ./prevData/tst/m/gp/6968717.txt
+	( 899/1242) [   12823s] Start: ./prevData/tst/m/gp/8139oo7.txt
+	( 900/1242) [   12834s] Start: ./prevData/tst/m/gp/9243262.txt
+	( 901/1242) [   12845s] Start: ./prevData/tst/m/gp/z38z467.txt
+	( 902/1242) [   12857s] Start: ./prevData/tst/m/gs/1z39z21.txt
+	( 903/1242) [   12870s] Start: ./prevData/tst/m/gs/274856z.txt
+	( 904/1242) [   12884s] Start: ./prevData/tst/m/gs/5247636.txt
+	( 905/1242) [   12898s] Start: ./prevData/tst/m/gs/6811732.txt
+	( 906/1242) [   12911s] Start: ./prevData/tst/m/gs/6z4z8z5.txt
+	( 907/1242) [   12926s] Start: ./prevData/tst/m/gs/71412zz.txt
+	( 908/1242) [   12942s] Start: ./prevData/tst/m/gs/747z499.txt
+	( 909/1242) [   12961s] Start: ./prevData/tst/m/gs/85573z6.txt
+	( 910/1242) [   12978s] Start: ./prevData/tst/m/gs/945zz64.txt
+	( 911/1242) [   12992s] Start: ./prevData/tst/m/gs/o331226.txt
+	( 912/1242) [   13008s] Start: ./prevData/tst/m/gs/z97238z.txt
+	( 913/1242) [   13026s] Start: ./prevData/tst/m/gw/179z838.txt
+	( 914/1242) [   13042s] Start: ./prevData/tst/m/gw/2887897.txt
+	( 915/1242) [   13058s] Start: ./prevData/tst/m/gw/324163z.txt
+	( 916/1242) [   13077s] Start: ./prevData/tst/m/gw/4zz7z3z.txt
+	( 917/1242) [   13098s] Start: ./prevData/tst/m/gw/7418261.txt
+	( 918/1242) [   13112s] Start: ./prevData/tst/m/gw/7758o54.txt
+	( 919/1242) [   13126s] Start: ./prevData/tst/m/gw/812z276.txt
+	( 920/1242) [   13143s] Start: ./prevData/tst/m/gw/911o4o8.txt
+	( 921/1242) [   13156s] Start: ./prevData/tst/m/gw/9231518.txt
+	( 922/1242) [   13170s] Start: ./prevData/tst/m/gw/9345356.txt
+	( 923/1242) [   13187s] Start: ./prevData/tst/m/gw/o33o2o5.txt
+	( 924/1242) [   13205s] Start: ./prevData/tst/m/hc/2125z26.txt
+	( 925/1242) [   13220s] Start: ./prevData/tst/m/hc/3oo3184.txt
+	( 926/1242) [   13232s] Start: ./prevData/tst/m/hc/428o5oo.txt
+	( 927/1242) [   13247s] Start: ./prevData/tst/m/hc/4456614.txt
+	( 928/1242) [   13261s] Start: ./prevData/tst/m/hc/5416817.txt
+	( 929/1242) [   13275s] Start: ./prevData/tst/m/hc/7522851.txt
+	( 930/1242) [   13290s] Start: ./prevData/tst/m/hc/7z43zz7.txt
+	( 931/1242) [   13307s] Start: ./prevData/tst/m/hc/8zz2359.txt
+	( 932/1242) [   13325s] Start: ./prevData/tst/m/hc/o7o2647.txt
+	( 933/1242) [   13339s] Start: ./prevData/tst/m/hc/z94zz32.txt
+	( 934/1242) [   13353s] Start: ./prevData/tst/m/hc/zz5782z.txt
+	( 935/1242) [   13368s] Start: ./prevData/tst/m/hj/1228845.txt
+	( 936/1242) [   13381s] Start: ./prevData/tst/m/hj/3483586.txt
+	( 937/1242) [   13396s] Start: ./prevData/tst/m/hj/375943z.txt
+	( 938/1242) [   13410s] Start: ./prevData/tst/m/hj/4zzz647.txt
+	( 939/1242) [   13426s] Start: ./prevData/tst/m/hj/6599z85.txt
+	( 940/1242) [   13444s] Start: ./prevData/tst/m/hj/7589927.txt
+	( 941/1242) [   13458s] Start: ./prevData/tst/m/hj/7672856.txt
+	( 942/1242) [   13472s] Start: ./prevData/tst/m/hj/7724136.txt
+	( 943/1242) [   13489s] Start: ./prevData/tst/m/hj/8367413.txt
+	( 944/1242) [   13502s] Start: ./prevData/tst/m/hj/o39o23o.txt
+	( 945/1242) [   13515s] Start: ./prevData/tst/m/hj/o5o2187.txt
+	( 946/1242) [   13528s] Start: ./prevData/tst/m/hm/2o27869.txt
+	( 947/1242) [   13546s] Start: ./prevData/tst/m/hm/4966o97.txt
+	( 948/1242) [   13572s] Start: ./prevData/tst/m/hm/4z71611.txt
+	( 949/1242) [   13593s] Start: ./prevData/tst/m/hm/5oo4o32.txt
+	( 950/1242) [   13613s] Start: ./prevData/tst/m/hm/713453o.txt
+	( 951/1242) [   13630s] Start: ./prevData/tst/m/hm/798188o.txt
+	( 952/1242) [   13649s] Start: ./prevData/tst/m/hm/8258146.txt
+	( 953/1242) [   13667s] Start: ./prevData/tst/m/hm/8755931.txt
+	( 954/1242) [   13687s] Start: ./prevData/tst/m/hm/o384899.txt
+	( 955/1242) [   13706s] Start: ./prevData/tst/m/hm/o5167oo.txt
+	( 956/1242) [   13724s] Start: ./prevData/tst/m/hm/z94761z.txt
+	( 957/1242) [   13742s] Start: ./prevData/tst/m/hr/13z4193.txt
+	( 958/1242) [   13754s] Start: ./prevData/tst/m/hr/2428774.txt
+	( 959/1242) [   13766s] Start: ./prevData/tst/m/hr/24o9221.txt
+	( 960/1242) [   13776s] Start: ./prevData/tst/m/hr/34o69o1.txt
+	( 961/1242) [   13787s] Start: ./prevData/tst/m/hr/36135o9.txt
+	( 962/1242) [   13798s] Start: ./prevData/tst/m/hr/45z45z1.txt
+	( 963/1242) [   13812s] Start: ./prevData/tst/m/hr/664637o.txt
+	( 964/1242) [   13825s] Start: ./prevData/tst/m/hr/96997z2.txt
+	( 965/1242) [   13837s] Start: ./prevData/tst/m/hr/9oo3584.txt
+	( 966/1242) [   13848s] Start: ./prevData/tst/m/hr/z5761z6.txt
+	( 967/1242) [   13865s] Start: ./prevData/tst/m/hr/z7z1zz9.txt
+	( 968/1242) [   13878s] Start: ./prevData/tst/m/ia/1582z3z.txt
+	( 969/1242) [   13893s] Start: ./prevData/tst/m/ia/1635976.txt
+	( 970/1242) [   13907s] Start: ./prevData/tst/m/ia/1z95196.txt
+	( 971/1242) [   13919s] Start: ./prevData/tst/m/ia/29274o5.txt
+	( 972/1242) [   13934s] Start: ./prevData/tst/m/ia/3252856.txt
+	( 973/1242) [   13948s] Start: ./prevData/tst/m/ia/3o7988o.txt
+	( 974/1242) [   13959s] Start: ./prevData/tst/m/ia/46966o4.txt
+	( 975/1242) [   13972s] Start: ./prevData/tst/m/ia/72o3317.txt
+	( 976/1242) [   13983s] Start: ./prevData/tst/m/ia/8265374.txt
+	( 977/1242) [   13996s] Start: ./prevData/tst/m/ia/895122z.txt
+	( 978/1242) [   14008s] Start: ./prevData/tst/m/ia/o238773.txt
+	( 979/1242) [   14019s] Start: ./prevData/tst/m/ib/169o8o7.txt
+	( 980/1242) [   14028s] Start: ./prevData/tst/m/ib/17291o2.txt
+	( 981/1242) [   14040s] Start: ./prevData/tst/m/ib/21463o1.txt
+	( 982/1242) [   14051s] Start: ./prevData/tst/m/ib/2z5zz84.txt
+	( 983/1242) [   14063s] Start: ./prevData/tst/m/ib/39zz285.txt
+	( 984/1242) [   14074s] Start: ./prevData/tst/m/ib/61547o6.txt
+	( 985/1242) [   14084s] Start: ./prevData/tst/m/ib/68748oo.txt
+	( 986/1242) [   14095s] Start: ./prevData/tst/m/ib/73789oo.txt
+	( 987/1242) [   14107s] Start: ./prevData/tst/m/ib/o234399.txt
+	( 988/1242) [   14116s] Start: ./prevData/tst/m/ib/z3z4zz2.txt
+	( 989/1242) [   14127s] Start: ./prevData/tst/m/ib/z542z16.txt
+	( 990/1242) [   14139s] Start: ./prevData/tst/m/im/1294859.txt
+	( 991/1242) [   14157s] Start: ./prevData/tst/m/im/174o476.txt
+	( 992/1242) [   14171s] Start: ./prevData/tst/m/im/49z93z2.txt
+	( 993/1242) [   14192s] Start: ./prevData/tst/m/im/521o7o3.txt
+	( 994/1242) [   14209s] Start: ./prevData/tst/m/im/651144z.txt
+	( 995/1242) [   14225s] Start: ./prevData/tst/m/im/8332o39.txt
+	( 996/1242) [   14240s] Start: ./prevData/tst/m/im/8541z13.txt
+	( 997/1242) [   14258s] Start: ./prevData/tst/m/im/88o9o61.txt
+	( 998/1242) [   14274s] Start: ./prevData/tst/m/im/979835z.txt
+	( 999/1242) [   14293s] Start: ./prevData/tst/m/im/o279515.txt
+	(1000/1242) [   14311s] Start: ./prevData/tst/m/im/z431181.txt
+	(1001/1242) [   14326s] Start: ./prevData/tst/m/ip/1867z65.txt
+	(1002/1242) [   14338s] Start: ./prevData/tst/m/ip/1z69911.txt
+	(1003/1242) [   14350s] Start: ./prevData/tst/m/ip/255647z.txt
+	(1004/1242) [   14362s] Start: ./prevData/tst/m/ip/28826z4.txt
+	(1005/1242) [   14372s] Start: ./prevData/tst/m/ip/3818782.txt
+	(1006/1242) [   14383s] Start: ./prevData/tst/m/ip/422z373.txt
+	(1007/1242) [   14395s] Start: ./prevData/tst/m/ip/5724o29.txt
+	(1008/1242) [   14406s] Start: ./prevData/tst/m/ip/7789719.txt
+	(1009/1242) [   14420s] Start: ./prevData/tst/m/ip/9652754.txt
+	(1010/1242) [   14435s] Start: ./prevData/tst/m/ip/o76644o.txt
+	(1011/1242) [   14449s] Start: ./prevData/tst/m/ip/o933o29.txt
+	(1012/1242) [   14460s] Start: ./prevData/tst/m/ja/1866331.txt
+	(1013/1242) [   14474s] Start: ./prevData/tst/m/ja/2271oo3.txt
+	(1014/1242) [   14486s] Start: ./prevData/tst/m/ja/4o75o57.txt
+	(1015/1242) [   14500s] Start: ./prevData/tst/m/ja/53527o9.txt
+	(1016/1242) [   14512s] Start: ./prevData/tst/m/ja/77z2zz6.txt
+	(1017/1242) [   14527s] Start: ./prevData/tst/m/ja/7881298.txt
+	(1018/1242) [   14539s] Start: ./prevData/tst/m/ja/7958314.txt
+	(1019/1242) [   14552s] Start: ./prevData/tst/m/ja/8157739.txt
+	(1020/1242) [   14569s] Start: ./prevData/tst/m/ja/8936233.txt
+	(1021/1242) [   14580s] Start: ./prevData/tst/m/ja/o28216o.txt
+	(1022/1242) [   14590s] Start: ./prevData/tst/m/ja/oo6o399.txt
+	(1023/1242) [   14605s] Start: ./prevData/tst/m/jh/1335oo5.txt
+	(1024/1242) [   14620s] Start: ./prevData/tst/m/jh/239o392.txt
+	(1025/1242) [   14631s] Start: ./prevData/tst/m/jh/3186615.txt
+	(1026/1242) [   14642s] Start: ./prevData/tst/m/jh/5212788.txt
+	(1027/1242) [   14657s] Start: ./prevData/tst/m/jh/741z3zz.txt
+	(1028/1242) [   14672s] Start: ./prevData/tst/m/jh/76o8518.txt
+	(1029/1242) [   14687s] Start: ./prevData/tst/m/jh/8317494.txt
+	(1030/1242) [   14703s] Start: ./prevData/tst/m/jh/8z54z64.txt
+	(1031/1242) [   14718s] Start: ./prevData/tst/m/jh/z455293.txt
+	(1032/1242) [   14731s] Start: ./prevData/tst/m/jh/z7zz465.txt
+	(1033/1242) [   14751s] Start: ./prevData/tst/m/jh/z8z2z17.txt
+	(1034/1242) [   14771s] Start: ./prevData/tst/m/ka/11o87oo.txt
+	(1035/1242) [   14786s] Start: ./prevData/tst/m/ka/235o4o3.txt
+	(1036/1242) [   14804s] Start: ./prevData/tst/m/ka/5815418.txt
+	(1037/1242) [   14819s] Start: ./prevData/tst/m/ka/64o9451.txt
+	(1038/1242) [   14836s] Start: ./prevData/tst/m/ka/65z123z.txt
+	(1039/1242) [   14851s] Start: ./prevData/tst/m/ka/739o498.txt
+	(1040/1242) [   14866s] Start: ./prevData/tst/m/ka/7zzz9z6.txt
+	(1041/1242) [   14884s] Start: ./prevData/tst/m/ka/92o1648.txt
+	(1042/1242) [   14900s] Start: ./prevData/tst/m/ka/o583552.txt
+	(1043/1242) [   14914s] Start: ./prevData/tst/m/ka/z279537.txt
+	(1044/1242) [   14932s] Start: ./prevData/tst/m/ka/z48z436.txt
+	(1045/1242) [   14949s] Start: ./prevData/tst/m/ke/4zz345z.txt
+	(1046/1242) [   14966s] Start: ./prevData/tst/m/ke/57oo9o3.txt
+	(1047/1242) [   14979s] Start: ./prevData/tst/m/ke/689z786.txt
+	(1048/1242) [   14994s] Start: ./prevData/tst/m/ke/7286z43.txt
+	(1049/1242) [   15007s] Start: ./prevData/tst/m/ke/76z8742.txt
+	(1050/1242) [   15020s] Start: ./prevData/tst/m/ke/82z5z2z.txt
+	(1051/1242) [   15033s] Start: ./prevData/tst/m/ke/9321696.txt
+	(1052/1242) [   15045s] Start: ./prevData/tst/m/ke/9o53748.txt
+	(1053/1242) [   15061s] Start: ./prevData/tst/m/ke/oo63o36.txt
+	(1054/1242) [   15076s] Start: ./prevData/tst/m/ke/z118131.txt
+	(1055/1242) [   15090s] Start: ./prevData/tst/m/ke/zz92873.txt
+	(1056/1242) [   15104s] Start: ./prevData/tst/m/kg/1516561.txt
+	(1057/1242) [   15116s] Start: ./prevData/tst/m/kg/18432zz.txt
+	(1058/1242) [   15128s] Start: ./prevData/tst/m/kg/2534681.txt
+	(1059/1242) [   15142s] Start: ./prevData/tst/m/kg/487o9o5.txt
+	(1060/1242) [   15156s] Start: ./prevData/tst/m/kg/5598z43.txt
+	(1061/1242) [   15169s] Start: ./prevData/tst/m/kg/677884z.txt
+	(1062/1242) [   15185s] Start: ./prevData/tst/m/kg/6z92874.txt
+	(1063/1242) [   15201s] Start: ./prevData/tst/m/kg/71z6368.txt
+	(1064/1242) [   15217s] Start: ./prevData/tst/m/kg/8336o8o.txt
+	(1065/1242) [   15230s] Start: ./prevData/tst/m/kg/9447278.txt
+	(1066/1242) [   15242s] Start: ./prevData/tst/m/kg/z297631.txt
+	(1067/1242) [   15254s] Start: ./prevData/tst/m/le/161458z.txt
+	(1068/1242) [   15264s] Start: ./prevData/tst/m/le/1z71842.txt
+	(1069/1242) [   15277s] Start: ./prevData/tst/m/le/3548262.txt
+	(1070/1242) [   15288s] Start: ./prevData/tst/m/le/42zz117.txt
+	(1071/1242) [   15300s] Start: ./prevData/tst/m/le/5212o76.txt
+	(1072/1242) [   15312s] Start: ./prevData/tst/m/le/527724z.txt
+	(1073/1242) [   15326s] Start: ./prevData/tst/m/le/643o25o.txt
+	(1074/1242) [   15341s] Start: ./prevData/tst/m/le/6687744.txt
+	(1075/1242) [   15353s] Start: ./prevData/tst/m/le/823o899.txt
+	(1076/1242) [   15363s] Start: ./prevData/tst/m/le/8457o1o.txt
+	(1077/1242) [   15374s] Start: ./prevData/tst/m/le/zz86981.txt
+	(1078/1242) [   15385s] Start: ./prevData/tst/m/lg/16z85z7.txt
+	(1079/1242) [   15399s] Start: ./prevData/tst/m/lg/1z48232.txt
+	(1080/1242) [   15412s] Start: ./prevData/tst/m/lg/2oo78o1.txt
+	(1081/1242) [   15423s] Start: ./prevData/tst/m/lg/347584o.txt
+	(1082/1242) [   15436s] Start: ./prevData/tst/m/lg/4398515.txt
+	(1083/1242) [   15449s] Start: ./prevData/tst/m/lg/5938423.txt
+	(1084/1242) [   15463s] Start: ./prevData/tst/m/lg/7279o38.txt
+	(1085/1242) [   15476s] Start: ./prevData/tst/m/lg/7z56932.txt
+	(1086/1242) [   15488s] Start: ./prevData/tst/m/lg/8181oo3.txt
+	(1087/1242) [   15499s] Start: ./prevData/tst/m/lg/8619126.txt
+	(1088/1242) [   15512s] Start: ./prevData/tst/m/lg/z363114.txt
+	(1089/1242) [   15526s] Start: ./prevData/tst/m/mi/1886646.txt
+	(1090/1242) [   15541s] Start: ./prevData/tst/m/mi/3164819.txt
+	(1091/1242) [   15554s] Start: ./prevData/tst/m/mi/4o13oo8.txt
+	(1092/1242) [   15568s] Start: ./prevData/tst/m/mi/52128o3.txt
+	(1093/1242) [   15581s] Start: ./prevData/tst/m/mi/62o96o4.txt
+	(1094/1242) [   15594s] Start: ./prevData/tst/m/mi/7752762.txt
+	(1095/1242) [   15608s] Start: ./prevData/tst/m/mi/885358z.txt
+	(1096/1242) [   15619s] Start: ./prevData/tst/m/mi/8zz8184.txt
+	(1097/1242) [   15633s] Start: ./prevData/tst/m/mi/9o413o1.txt
+	(1098/1242) [   15645s] Start: ./prevData/tst/m/mi/oo61487.txt
+	(1099/1242) [   15657s] Start: ./prevData/tst/m/mi/z933z95.txt
+	(1100/1242) [   15672s] Start: ./prevData/tst/m/nl/39zz369.txt
+	(1101/1242) [   15686s] Start: ./prevData/tst/m/nl/4425z91.txt
+	(1102/1242) [   15705s] Start: ./prevData/tst/m/nl/548365o.txt
+	(1103/1242) [   15718s] Start: ./prevData/tst/m/nl/624o7o9.txt
+	(1104/1242) [   15731s] Start: ./prevData/tst/m/nl/6492z68.txt
+	(1105/1242) [   15743s] Start: ./prevData/tst/m/nl/6zz47z1.txt
+	(1106/1242) [   15757s] Start: ./prevData/tst/m/nl/7551322.txt
+	(1107/1242) [   15770s] Start: ./prevData/tst/m/nl/8569477.txt
+	(1108/1242) [   15783s] Start: ./prevData/tst/m/nl/9oo6o43.txt
+	(1109/1242) [   15796s] Start: ./prevData/tst/m/nl/z28z667.txt
+	(1110/1242) [   15811s] Start: ./prevData/tst/m/nl/zz1523z.txt
+	(1111/1242) [   15827s] Start: ./prevData/tst/m/np/1177671.txt
+	(1112/1242) [   15844s] Start: ./prevData/tst/m/np/2496z88.txt
+	(1113/1242) [   15856s] Start: ./prevData/tst/m/np/512z925.txt
+	(1114/1242) [   15868s] Start: ./prevData/tst/m/np/57o7659.txt
+	(1115/1242) [   15881s] Start: ./prevData/tst/m/np/617oo52.txt
+	(1116/1242) [   15893s] Start: ./prevData/tst/m/np/655632o.txt
+	(1117/1242) [   15908s] Start: ./prevData/tst/m/np/675597z.txt
+	(1118/1242) [   15924s] Start: ./prevData/tst/m/np/8169zz8.txt
+	(1119/1242) [   15939s] Start: ./prevData/tst/m/np/913z54z.txt
+	(1120/1242) [   15951s] Start: ./prevData/tst/m/np/z263531.txt
+	(1121/1242) [   15967s] Start: ./prevData/tst/m/np/z48z284.txt
+	(1122/1242) [   15982s] Start: ./prevData/tst/m/nt/1o13126.txt
+	(1123/1242) [   15993s] Start: ./prevData/tst/m/nt/2441617.txt
+	(1124/1242) [   16003s] Start: ./prevData/tst/m/nt/3976983.txt
+	(1125/1242) [   16015s] Start: ./prevData/tst/m/nt/429z612.txt
+	(1126/1242) [   16026s] Start: ./prevData/tst/m/nt/5318521.txt
+	(1127/1242) [   16038s] Start: ./prevData/tst/m/nt/58o6737.txt
+	(1128/1242) [   16049s] Start: ./prevData/tst/m/nt/685o882.txt
+	(1129/1242) [   16060s] Start: ./prevData/tst/m/nt/6z554z8.txt
+	(1130/1242) [   16072s] Start: ./prevData/tst/m/nt/82z2zz9.txt
+	(1131/1242) [   16085s] Start: ./prevData/tst/m/nt/98z76z8.txt
+	(1132/1242) [   16100s] Start: ./prevData/tst/m/nt/z477966.txt
+	(1133/1242) [   16113s] Start: ./prevData/tst/m/pc/18o2o65.txt
+	(1134/1242) [   16124s] Start: ./prevData/tst/m/pc/211o889.txt
+	(1135/1242) [   16137s] Start: ./prevData/tst/m/pc/247348z.txt
+	(1136/1242) [   16150s] Start: ./prevData/tst/m/pc/526883z.txt
+	(1137/1242) [   16162s] Start: ./prevData/tst/m/pc/617581z.txt
+	(1138/1242) [   16174s] Start: ./prevData/tst/m/pc/6773238.txt
+	(1139/1242) [   16188s] Start: ./prevData/tst/m/pc/6o55ooo.txt
+	(1140/1242) [   16203s] Start: ./prevData/tst/m/pc/7865446.txt
+	(1141/1242) [   16216s] Start: ./prevData/tst/m/pc/8927z66.txt
+	(1142/1242) [   16233s] Start: ./prevData/tst/m/pc/91756z8.txt
+	(1143/1242) [   16245s] Start: ./prevData/tst/m/pc/zz2z991.txt
+	(1144/1242) [   16260s] Start: ./prevData/tst/m/pg/1398275.txt
+	(1145/1242) [   16279s] Start: ./prevData/tst/m/pg/1z61495.txt
+	(1146/1242) [   16297s] Start: ./prevData/tst/m/pg/2143332.txt
+	(1147/1242) [   16317s] Start: ./prevData/tst/m/pg/2181559.txt
+	(1148/1242) [   16337s] Start: ./prevData/tst/m/pg/2858323.txt
+	(1149/1242) [   16358s] Start: ./prevData/tst/m/pg/3z78z54.txt
+	(1150/1242) [   16378s] Start: ./prevData/tst/m/pg/4731o52.txt
+	(1151/1242) [   16397s] Start: ./prevData/tst/m/pg/488472z.txt
+	(1152/1242) [   16416s] Start: ./prevData/tst/m/pg/652586o.txt
+	(1153/1242) [   16435s] Start: ./prevData/tst/m/pg/9o1o299.txt
+	(1154/1242) [   16452s] Start: ./prevData/tst/m/pg/o974535.txt
+	(1155/1242) [   16472s] Start: ./prevData/tst/m/ph/132o678.txt
+	(1156/1242) [   16483s] Start: ./prevData/tst/m/ph/2662zz6.txt
+	(1157/1242) [   16496s] Start: ./prevData/tst/m/ph/491896o.txt
+	(1158/1242) [   16510s] Start: ./prevData/tst/m/ph/5237595.txt
+	(1159/1242) [   16522s] Start: ./prevData/tst/m/ph/58z3745.txt
+	(1160/1242) [   16533s] Start: ./prevData/tst/m/ph/6721o86.txt
+	(1161/1242) [   16548s] Start: ./prevData/tst/m/ph/7o914o3.txt
+	(1162/1242) [   16561s] Start: ./prevData/tst/m/ph/8424628.txt
+	(1163/1242) [   16575s] Start: ./prevData/tst/m/ph/o15oo64.txt
+	(1164/1242) [   16586s] Start: ./prevData/tst/m/ph/o542361.txt
+	(1165/1242) [   16596s] Start: ./prevData/tst/m/ph/z9z54z3.txt
+	(1166/1242) [   16609s] Start: ./prevData/tst/m/pr/3113z64.txt
+	(1167/1242) [   16622s] Start: ./prevData/tst/m/pr/3784956.txt
+	(1168/1242) [   16635s] Start: ./prevData/tst/m/pr/3o17519.txt
+	(1169/1242) [   16647s] Start: ./prevData/tst/m/pr/479994o.txt
+	(1170/1242) [   16662s] Start: ./prevData/tst/m/pr/5z22776.txt
+	(1171/1242) [   16678s] Start: ./prevData/tst/m/pr/5z5539z.txt
+	(1172/1242) [   16694s] Start: ./prevData/tst/m/pr/829z898.txt
+	(1173/1242) [   16707s] Start: ./prevData/tst/m/pr/89343oo.txt
+	(1174/1242) [   16718s] Start: ./prevData/tst/m/pr/o635885.txt
+	(1175/1242) [   16730s] Start: ./prevData/tst/m/pr/o8o3415.txt
+	(1176/1242) [   16742s] Start: ./prevData/tst/m/pr/z418874.txt
+	(1177/1242) [   16755s] Start: ./prevData/tst/m/rk/1819958.txt
+	(1178/1242) [   16766s] Start: ./prevData/tst/m/rk/213z1zz.txt
+	(1179/1242) [   16779s] Start: ./prevData/tst/m/rk/283759o.txt
+	(1180/1242) [   16793s] Start: ./prevData/tst/m/rk/336o198.txt
+	(1181/1242) [   16805s] Start: ./prevData/tst/m/rk/388943o.txt
+	(1182/1242) [   16818s] Start: ./prevData/tst/m/rk/5617439.txt
+	(1183/1242) [   16832s] Start: ./prevData/tst/m/rk/5o4o98o.txt
+	(1184/1242) [   16844s] Start: ./prevData/tst/m/rk/72o445o.txt
+	(1185/1242) [   16856s] Start: ./prevData/tst/m/rk/816z325.txt
+	(1186/1242) [   16869s] Start: ./prevData/tst/m/rk/872582o.txt
+	(1187/1242) [   16880s] Start: ./prevData/tst/m/rk/z41178z.txt
+	(1188/1242) [   16894s] Start: ./prevData/tst/m/sa/113z1z8.txt
+	(1189/1242) [   16906s] Start: ./prevData/tst/m/sa/21879z9.txt
+	(1190/1242) [   16918s] Start: ./prevData/tst/m/sa/238z54z.txt
+	(1191/1242) [   16932s] Start: ./prevData/tst/m/sa/44oo942.txt
+	(1192/1242) [   16948s] Start: ./prevData/tst/m/sa/5674683.txt
+	(1193/1242) [   16961s] Start: ./prevData/tst/m/sa/7265889.txt
+	(1194/1242) [   16974s] Start: ./prevData/tst/m/sa/96o2422.txt
+	(1195/1242) [   16986s] Start: ./prevData/tst/m/sa/o712492.txt
+	(1196/1242) [   16999s] Start: ./prevData/tst/m/sa/o8619o9.txt
+	(1197/1242) [   17010s] Start: ./prevData/tst/m/sa/z16135z.txt
+	(1198/1242) [   17023s] Start: ./prevData/tst/m/sa/z366625.txt
+	(1199/1242) [   17036s] Start: ./prevData/tst/m/sl/14552z3.txt
+	(1200/1242) [   17048s] Start: ./prevData/tst/m/sl/1728864.txt
+	(1201/1242) [   17060s] Start: ./prevData/tst/m/sl/214o937.txt
+	(1202/1242) [   17074s] Start: ./prevData/tst/m/sl/2551256.txt
+	(1203/1242) [   17087s] Start: ./prevData/tst/m/sl/4175851.txt
+	(1204/1242) [   17098s] Start: ./prevData/tst/m/sl/5z878z4.txt
+	(1205/1242) [   17111s] Start: ./prevData/tst/m/sl/644z2z3.txt
+	(1206/1242) [   17128s] Start: ./prevData/tst/m/sl/9o62471.txt
+	(1207/1242) [   17139s] Start: ./prevData/tst/m/sl/o16815o.txt
+	(1208/1242) [   17150s] Start: ./prevData/tst/m/sl/ooo6o56.txt
+	(1209/1242) [   17162s] Start: ./prevData/tst/m/sl/z9z1z5z.txt
+	(1210/1242) [   17175s] Start: ./prevData/tst/m/sr/1633z82.txt
+	(1211/1242) [   17189s] Start: ./prevData/tst/m/sr/2746z79.txt
+	(1212/1242) [   17203s] Start: ./prevData/tst/m/sr/291o8oo.txt
+	(1213/1242) [   17214s] Start: ./prevData/tst/m/sr/3261646.txt
+	(1214/1242) [   17226s] Start: ./prevData/tst/m/sr/35869o5.txt
+	(1215/1242) [   17238s] Start: ./prevData/tst/m/sr/3o87717.txt
+	(1216/1242) [   17252s] Start: ./prevData/tst/m/sr/4148oo7.txt
+	(1217/1242) [   17264s] Start: ./prevData/tst/m/sr/4724324.txt
+	(1218/1242) [   17276s] Start: ./prevData/tst/m/sr/6o12o97.txt
+	(1219/1242) [   17287s] Start: ./prevData/tst/m/sr/75z3z97.txt
+	(1220/1242) [   17304s] Start: ./prevData/tst/m/sr/z483667.txt
+	(1221/1242) [   17319s] Start: ./prevData/tst/m/sw/1337zz5.txt
+	(1222/1242) [   17334s] Start: ./prevData/tst/m/sw/1381246.txt
+	(1223/1242) [   17344s] Start: ./prevData/tst/m/sw/2oo659o.txt
+	(1224/1242) [   17357s] Start: ./prevData/tst/m/sw/319zz38.txt
+	(1225/1242) [   17369s] Start: ./prevData/tst/m/sw/33263z9.txt
+	(1226/1242) [   17382s] Start: ./prevData/tst/m/sw/56o4247.txt
+	(1227/1242) [   17394s] Start: ./prevData/tst/m/sw/65491z2.txt
+	(1228/1242) [   17408s] Start: ./prevData/tst/m/sw/7o585o8.txt
+	(1229/1242) [   17420s] Start: ./prevData/tst/m/sw/8989615.txt
+	(1230/1242) [   17433s] Start: ./prevData/tst/m/sw/918753o.txt
+	(1231/1242) [   17446s] Start: ./prevData/tst/m/sw/9553936.txt
+	(1232/1242) [   17460s] Start: ./prevData/tst/m/tc/1474568.txt
+	(1233/1242) [   17473s] Start: ./prevData/tst/m/tc/1743z44.txt
+	(1234/1242) [   17486s] Start: ./prevData/tst/m/tc/2521o7o.txt
+	(1235/1242) [   17496s] Start: ./prevData/tst/m/tc/265532o.txt
+	(1236/1242) [   17508s] Start: ./prevData/tst/m/tc/2895175.txt
+	(1237/1242) [   17519s] Start: ./prevData/tst/m/tc/4z3667z.txt
+	(1238/1242) [   17535s] Start: ./prevData/tst/m/tc/5233199.txt
+	(1239/1242) [   17549s] Start: ./prevData/tst/m/tc/634o487.txt
+	(1240/1242) [   17562s] Start: ./prevData/tst/m/tc/69118z2.txt
+	(1241/1242) [   17575s] Start: ./prevData/tst/m/tc/8221367.txt
+	(1242/1242) [   17588s] Start: ./prevData/tst/m/tc/ooo4611.txt
+FINISH Recognize! - [   17601s]
+
+Process finished with exit code 0

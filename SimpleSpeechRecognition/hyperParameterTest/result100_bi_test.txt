@@ -1,0 +1,86 @@
+Bigram / Language Model Weight - 1
+====================== HTK Results Analysis =======================
+  Date: Wed Jun 10 09:48:42 2020
+  Ref : reference100.txt
+  Rec : recognized100_bi.txt
+------------------------ Overall Results --------------------------
+SENT: %Correct=59.00 [H=59, S=41, N=100]
+WORD: %Corr=99.57, Acc=91.86 [H=697, D=0, S=3, I=54, N=700]
+------------------------ Confusion Matrix -------------------------
+       z   o   o   t   t   f   f   s   s   e   n 
+       e   h   n   w   h   o   i   i   e   i   i 
+       r       e   o   r   u   v   x   v   g   n 
+       o               e   r   e       e   h   e 
+                       e               n   t      Del [ %c / %e]
+zero  65   0   0   0   0   0   0   0   0   0   0    0
+  oh   0  47   0   0   0   0   0   0   0   0   0    0
+ one   0   0  74   0   0   0   0   0   0   0   1    0 [98.7/0.1]
+ two   0   0   0  59   0   0   0   0   0   0   0    0
+thre   0   0   0   0  76   0   0   0   0   0   0    0
+four   0   0   0   0   0  61   1   0   0   0   0    0 [98.4/0.1]
+five   0   0   0   0   0   0  59   0   0   0   0    0
+ six   0   0   0   0   0   0   0  66   0   0   0    0
+seve   0   0   0   0   0   0   0   0  65   0   0    0
+eigh   0   0   0   0   0   0   0   0   0  65   1    0 [98.5/0.1]
+nine   0   0   0   0   0   0   0   0   0   0  60    0
+Ins    0  29   2   7   0   2   0   0   0  13   1
+===================================================================
+
+
+Bigram / Language Model Weight - 0.1
+====================== HTK Results Analysis =======================
+  Date: Wed Jun 10 09:48:49 2020
+  Ref : reference100.txt
+  Rec : recognized100_bi_01.txt
+------------------------ Overall Results --------------------------
+SENT: %Correct=86.00 [H=86, S=14, N=100]
+WORD: %Corr=98.43, Acc=97.86 [H=689, D=6, S=5, I=4, N=700]
+------------------------ Confusion Matrix -------------------------
+       z   o   o   t   t   f   f   s   s   e   n 
+       e   h   n   w   h   o   i   i   e   i   i 
+       r       e   o   r   u   v   x   v   g   n 
+       o               e   r   e       e   h   e 
+                       e               n   t      Del [ %c / %e]
+zero  65   0   0   0   0   0   0   0   0   0   0    0
+  oh   0  46   0   0   0   0   0   0   0   0   0    1
+ one   0   0  74   0   0   0   0   0   0   0   0    1
+ two   0   0   0  58   1   0   0   0   0   0   0    0 [98.3/0.1]
+thre   0   0   0   0  76   0   0   0   0   0   0    0
+four   0   1   0   0   0  61   0   0   0   0   0    0 [98.4/0.1]
+five   0   0   0   0   0   0  59   0   0   0   0    0
+ six   0   0   0   0   0   0   0  66   0   0   0    0
+seve   0   0   0   0   0   0   0   0  65   0   0    0
+eigh   0   2   0   0   0   0   0   0   0  61   0    3 [96.8/0.3]
+nine   0   1   0   0   0   0   0   0   0   0  58    1 [98.3/0.1]
+Ins    0   3   0   0   0   0   0   0   0   1   0
+===================================================================
+
+
+Bigram / Language Model Weight - 0.2
+====================== HTK Results Analysis =======================
+  Date: Wed Jun 10 09:48:49 2020
+  Ref : reference100.txt
+  Rec : recognized100_bi_02.txt
+------------------------ Overall Results --------------------------
+SENT: %Correct=85.00 [H=85, S=15, N=100]
+WORD: %Corr=99.00, Acc=97.43 [H=693, D=2, S=5, I=11, N=700]
+------------------------ Confusion Matrix -------------------------
+       z   o   o   t   t   f   f   s   s   e   n 
+       e   h   n   w   h   o   i   i   e   i   i 
+       r       e   o   r   u   v   x   v   g   n 
+       o               e   r   e       e   h   e 
+                       e               n   t      Del [ %c / %e]
+zero  65   0   0   0   0   0   0   0   0   0   0    0
+  oh   0  46   0   0   0   0   0   0   0   0   0    1
+ one   0   0  75   0   0   0   0   0   0   0   0    0
+ two   0   0   0  58   1   0   0   0   0   0   0    0 [98.3/0.1]
+thre   0   0   0   0  76   0   0   0   0   0   0    0
+four   0   0   0   0   0  61   1   0   0   0   0    0 [98.4/0.1]
+five   0   0   0   0   0   0  59   0   0   0   0    0
+ six   0   0   0   0   0   0   0  66   0   0   0    0
+seve   0   0   0   0   0   0   0   0  65   0   0    0
+eigh   0   1   0   0   0   0   0   0   0  63   1    1 [96.9/0.3]
+nine   0   0   1   0   0   0   0   0   0   0  59    0 [98.3/0.1]
+Ins    0   8   0   1   0   0   0   0   0   2   0
+===================================================================
+
